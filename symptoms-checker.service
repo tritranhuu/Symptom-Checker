@@ -1,0 +1,12 @@
+[Unit]
+Requires=network.target
+
+[Service]
+Type=simple
+User=root
+ExecStart=/datadrive/deepcare/symptoms-checker/start-symptoms-checker.sh
+ExecStop=/datadrive/deepcare/symptoms-checker/stop-symptoms-checker.sh
+Restart=on-abnormal
+
+[Install]
+WantedBy=multi-user.target

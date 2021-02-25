@@ -1,0 +1,134 @@
+[
+    {
+        "icd10": "",
+        "iri": "<http://deepcare.io/RBGovKIy6ZaCJ5d498HUKfl>",
+        "label": "Thiếu_máu",
+        "group": "Bệnh_máu_và_cơ_quan_tạo_máu,Huyết_học"
+    },
+    {
+        "icd10": "",
+        "iri": "<http://deepcare.io/RCu8ntdzdmdKqKu7PhYo9yy>",
+        "label": "Bệnh_B_Thalassemia",
+        "group": "Bệnh_máu_và_cơ_quan_tạo_máu,Huyết_học"
+    },
+    {
+        "icd10": "D63.8",
+        "iri": "<http://deepcare.io/REXJjqmgZFcLCfJ9QERdIa>",
+        "label": "Thiếu_máu_trong_các_bệnh_mạn_tính",
+        "group": "Bệnh_máu_và_cơ_quan_tạo_máu,Huyết_học"
+    },
+    {
+        "icd10": "",
+        "iri": "<http://deepcare.io/RPxZrZVWIqNEeQHC5DX3oh>",
+        "label": "Bệnh_Haemophilia ,Hemophilia,Hemophilia_A,Bệnh_ưa_chảy_máu",
+        "group": "Bệnh_máu_và_cơ_quan_tạo_máu,Huyết_học"
+    },
+    {
+        "icd10": "",
+        "iri": "<http://deepcare.io/R7ztVxEOIyD1vx7VJU2f1CO>",
+        "label": "Hội_chứng_Gorlin, Ung_thư_tế_bào_đáy",
+        "group": "Hội_chứng"
+    },
+    {
+        "icd10": "",
+        "iri": "<http://deepcare.io/R9eKRX9afWR32mF8NUrZDI1>",
+        "label": "Hội_chứng_Turcot",
+        "group": "Hội_chứng"
+    },
+    {
+        "icd10": "",
+        "iri": "<http://deepcare.io/R7wix13uZLGwa7UPtbF4qeg>",
+        "label": "Hội_chứng_xuất_huyết",
+        "group": "Hội_chứng"
+    },
+    {
+        "icd10": "",
+        "iri": "<http://deepcare.io/R8jepSQVEw60qIjIJzAik9a>",
+        "label": "Hội_chứng_u",
+        "group": "Hội_chứng"
+    },
+    {
+        "icd10": "",
+        "iri": "<http://deepcare.io/R8ulW5iUrGvwR2eATFnNUNX>",
+        "label": "Hội_chứng_thiếu_máu",
+        "group": "Hội_chứng"
+    },
+    {
+        "icd10": "",
+        "iri": "<http://deepcare.io/R8ux4O01aQfCLSkL7wIjvPU>",
+        "label": "Hội_chứng_loét_hoại_tử",
+        "group": "Hội_chứng"
+    },
+    {
+        "icd10": "",
+        "iri": "<http://deepcare.io/RBP9ZOO8HGsqjMIjfYeweSf>",
+        "label": "Hội_chứng_nhiễm_trùng",
+        "group": "Hội_chứng"
+    },
+    {
+        "icd10": "",
+        "iri": "<http://deepcare.io/RBxayIPFsRJVdWvKLOoETtO>",
+        "label": "Hội_chứng_chèn_ép_tim_cấp",
+        "group": "Hội_chứng"
+    },
+    {
+        "icd10": "",
+        "iri": "<http://deepcare.io/RciH53cloVTMAphP8kh8vj>",
+        "label": "Hội_chứng_thâm_nhiễm",
+        "group": "Hội_chứng"
+    },
+    {
+        "icd10": "",
+        "iri": "<http://deepcare.io/RCrRopmeDfXn1LzkexRE0ba>",
+        "label": "Hội_chứng_suy_giảm_miễn_dịch_mắc_phải",
+        "group": "Hội_chứng"
+    },
+    {
+        "icd10": "B23.0",
+        "iri": "<http://deepcare.io/RxK8QOx79yIQHwUXswxmjC>",
+        "label": "Hội_chứng_nhiễm_HIV_cấp",
+        "group": "Hội_chứng"
+    },
+    {
+        "icd10": "",
+        "iri": "<http://deepcare.io/RDDQpkbHxe2UmhuakTcwoCh>",
+        "label": "Phù_mạch",
+        "group": "Vết thương, ngộ độc và hậu quả của một số nguyên nhân ngoại sinh"
+    },
+    {
+        "icd10": "S30.0",
+        "iri": "<http://deepcare.io/R7dLrx94EgtJiFdxl3CStYP>",
+        "label": "Đụng_giập_thắt_lưng_và_khung_chậu",
+        "group": "Vết thương, ngộ độc và hậu quả của một số nguyên nhân ngoại sinh"
+    },
+    {
+        "icd10": "S90.0",
+        "iri": "<http://deepcare.io/R7r2bdNNskQCgMfCI1kIHKN>",
+        "label": "Đụng_giập_tại_cổ_chân,Đụng_giập_tại_mắt_cá_chân",
+        "group": "Vết thương, ngộ độc và hậu quả của một số nguyên nhân ngoại sinh"
+    },
+    {
+        "icd10": "T39",
+        "iri": "<http://deepcare.io/R8FJlNYZbrJum5dgUxaeojn>",
+        "label": "Ngộ_độc_paracetamol",
+        "group": "Vết thương, ngộ độc và hậu quả của một số nguyên nhân ngoại sinh"
+    },
+    {
+        "icd10": "S40.0",
+        "iri": "<http://deepcare.io/RBIFp6MEhOkzpA4yWhKx25x>",
+        "label": "Đụng_giập_vai_và_cánh_tay",
+        "group": "Vết thương, ngộ độc và hậu quả của một số nguyên nhân ngoại sinh"
+    },
+    {
+        "icd10": "T40",
+        "iri": "<http://deepcare.io/RDAjTYNRr5xJNEMwOYisglE>",
+        "label": "Ngộ_độc_Opioid_cấp_tính,Ngộ_độc_chất_gây_nghiện_cấp_tính,Ngộ_độc_các_chất_ma_túy",
+        "group": "Vết thương, ngộ độc và hậu quả của một số nguyên nhân ngoại sinh"
+    },
+    {
+        "icd10": "",
+        "iri": "<http://deepcare.io/R9JXwsBMEW3sYygf7j2ckKV>",
+        "label": "Bệnh_xơ_củ",
+        "group": "Dị tật bẩm sinh, biến dạng bất thường về nhiễm sắc thể"
+    }
+]

@@ -1,0 +1,1076 @@
+STT,ID,Tên bệnh,ICD10,Faculty_name,Faculty_code
+722,WudSRXEBAagyUEZDqawd, Bệnh nấm món,B35.1,Truyền nhiễm,DCCK37
+91,DOdSRXEBAagyUEZDqawd, Chấn thương bụng kín,S39,Ngoại tiêu hóa,DCCK20
+601,ZudSRXEBAagyUEZDqawd, Ho gà,A37,Truyền nhiễm,DCCK37
+683,KOdSRXEBAagyUEZDqasd, Hôi miệng,R19.6,Răng hàm mặt,DCCK13
+319,eOdSRXEBAagyUEZDqasd, Nấm họng,J39.2,Tai mũi họng,DCCK18
+623,GudSRXEBAagyUEZDqa0d, Nói lắp,F98.5,Tâm thần,DCCK32
+325,o-dSRXEBAagyUEZDqasd, Run vô căn,G25.0,Thần kinh,DCCK35
+867,g-dSRXEBAagyUEZDqawd, Sán lá gan,B66,Truyền nhiễm,DCCK37
+118,0-dSRXEBAagyUEZDqawd, Sốt xuất huyết,A91,Truyền nhiễm,DCCK37
+152,YudSRXEBAagyUEZDqaoc, Thoái hóa khớp,M19,Cơ xương khớp,DCCK10
+374,0udSRXEBAagyUEZDqawd, Ung thư tuyến giáp,D09.3,Ung thư,DCCK14
+284,hedSRXEBAagyUEZDqaoc, Viêm khớp nhiễm khuẩn sinh mủ,M00,Cơ xương khớp,DCCK10
+110,mOdSRXEBAagyUEZDqawd, Viêm màng não do vi khuẩn,G00,Thần kinh,DCCK35
+492,7edSRXEBAagyUEZDqawd,7 kiểu tóc không cần cắt vẫn đẹp,,,
+414,oedSRXEBAagyUEZDqaoc,Á sừng,L86,Da liễu,DCCK16
+637,COdSRXEBAagyUEZDqaoc,"Á sừng
+",L85.1,Da liễu,DCCK16
+834,h-dSRXEBAagyUEZDqasd,Alzhenmer,G30,Thần kinh,DCCK35
+148,QedSRXEBAagyUEZDqaoc,Áp -xe phổi,J85,Hô hấp,DCCK36
+446,uedSRXEBAagyUEZDqasd,Áp -xe thận,N13.6,Thận tiết niệu,DCCK31
+170,tudSRXEBAagyUEZDqaoc,Áp Xe Phổi,J85,Hô hấp,DCCK36
+774,DedSRXEBAagyUEZDqaoc,Áp xe vùng hậu môn-trực tràng,K61,Tiêu hóa,DCCK20
+629,0edSRXEBAagyUEZDqakc,Apxe Gan,K75.0,Tiêu hóa,DCCK20
+846,yOdSRXEBAagyUEZDqasd,APXE Gan,K75.0,Tiêu hóa,DCCK20
+208,x-dSRXEBAagyUEZDqasd,APXE Vùng Hậu Môn - Trực Trạng,K61,Tiêu hóa,DCCK20
+753,6-dSRXEBAagyUEZDqawd,Ba bước chăm sóc da mặt hoàn hảo cho nam giới,,Da liễu,DCCK16
+144,E-dSRXEBAagyUEZDqaoc,Bạch biến,L80,Da liễu,DCCK16
+533,ludSRXEBAagyUEZDqaoc,Bạch Biến,L80,Da liễu,DCCK16
+223,V-dSRXEBAagyUEZDqawd,Bạch hầu,A36,Truyền nhiễm,DCCK37
+526,XedSRXEBAagyUEZDqaoc,Bại liệt,A80,Truyền nhiễm,DCCK37
+865,Y-dSRXEBAagyUEZDqawd,Bại liệt,A80,Truyền nhiễm,DCCK37
+25,KOdSRXEBAagyUEZDqaoc,Baị liệt ,A80,Thần kinh,DCCK35
+517,LOdSRXEBAagyUEZDqaoc,Bại não trẻ em,G80,Thần kinh,DCCK35
+838,oOdSRXEBAagyUEZDqasd,Bại não trẻ em,G80,Thần kinh,DCCK35
+775,FOdSRXEBAagyUEZDqaoc,Ban đỏ,R21,Dị ứng miễn dịch,DCCK21
+241,4OdSRXEBAagyUEZDqawd,Ban Đỏ,R21,Truyền nhiễm,DCCK37
+432,WOdSRXEBAagyUEZDqasd,Băng huyết sau sinh,O72,Sản phụ khoa,DCCK24
+31,R-dSRXEBAagyUEZDqaoc,Barrett thực quản,K22.7,Tiêu hóa,DCCK20
+137,7edSRXEBAagyUEZDqakc,Barrett thực quản,K22.7,Tiêu hóa,DCCK20
+329,yedSRXEBAagyUEZDqasd,BARRETT Thực Quản,K22.7,Tiêu hóa,DCCK20
+513,7udSRXEBAagyUEZDqakc,Basedow,E05,Nội tiết,DCCK07
+397,F-dSRXEBAagyUEZDqaoc,Bệnh Alzheimer,G30,Thần kinh,DCCK35
+425,EudSRXEBAagyUEZDqasc,Bệnh Basedow,E05,Nội tiết,DCCK07
+404,TudSRXEBAagyUEZDqaoc,Bệnh blốc nhĩ thất,I44,Hô hấp,DCCK36
+346,IedSRXEBAagyUEZDqawd,Bệnh Blốc Nhĩ Thất,I44,Tim mạch,DCCK11
+403,SedSRXEBAagyUEZDqaoc,Bệnh bụi phổi bông,J66.0,Hô hấp,DCCK36
+603,b-dSRXEBAagyUEZDqawd,Bệnh chagas,B57,Truyền nhiễm,DCCK37
+772,_udSRXEBAagyUEZDqakc,Bệnh Chàm,L56.2,Da liễu,DCCK16
+799,ledSRXEBAagyUEZDqaoc,Bệnh Chàm,B00.0,Da liễu,DCCK16
+571,yudSRXEBAagyUEZDqasd,Bệnh CROHN,K50,Tiêu hóa,DCCK20
+488,zedSRXEBAagyUEZDqawd,Bệnh Crohn,K50,Tiêu hóa,DCCK20
+498,DedSRXEBAagyUEZDqa0d,Bệnh cúm,J10,Hô hấp,DCCK36
+720,S-dSRXEBAagyUEZDqawd,Bệnh Cúm,J11,Hô hấp,DCCK36
+875,2-dSRXEBAagyUEZDqawd,Bệnh Cúm,J11,Hô hấp,DCCK36
+363,fedSRXEBAagyUEZDqawd,Bệnh cúm,J11,Truyền nhiễm,DCCK37
+597,TOdSRXEBAagyUEZDqawd,Bệnh Dại,A82,Truyền nhiễm,DCCK37
+42,tedSRXEBAagyUEZDqaoc,Bệnh dị ứng,Z91.0,Dị ứng miễn dịch,DCCK21
+514,CedSRXEBAagyUEZDqaoc,Bệnh dị ứng,Z91.0,Dị ứng miễn dịch,DCCK21
+616,1udSRXEBAagyUEZDqawd,Bệnh điếc,H90,Tai mũi họng,DCCK18
+732,i-dSRXEBAagyUEZDqawd,Bệnh do vi rút Zika,,Truyền nhiễm,DCCK37
+226,cOdSRXEBAagyUEZDqawd,Bệnh do vi-rút Ebola,A98.4,Truyền nhiễm,DCCK37
+70,iOdSRXEBAagyUEZDqasd,Bệnh Động Kinh,G40,Thần kinh,DCCK35
+265,G-dSRXEBAagyUEZDqaoc,Bệnh động kinh,G40.5,Thần kinh,DCCK35
+10,2edSRXEBAagyUEZDqakc,Bệnh gan do rượu,K70,Tiêu Hóa,DCCK20
+79,y-dSRXEBAagyUEZDqasd,Bệnh Gan Do Rượu,K70,Tiêu hóa,DCCK20
+255,yOdSRXEBAagyUEZDqakc,Bệnh Gan Do Rượu,K70,Tiêu hóa,DCCK20
+490,0edSRXEBAagyUEZDqawd,Bệnh ghẻ,A66,Da liễu,DCCK16
+262,C-dSRXEBAagyUEZDqaoc,Bệnh ghẻ cóc,A66,Da liễu,DCCK16
+750,4edSRXEBAagyUEZDqawd,Bệnh ghẻ cóc,A66,Truyền nhiễm,DCCK37
+522,TOdSRXEBAagyUEZDqaoc,Bệnh giãn phế quản,J43,Hô hấp,DCCK36
+622,FOdSRXEBAagyUEZDqa0d,Bệnh giun kim,B80,Truyền nhiễm,DCCK37
+277,WOdSRXEBAagyUEZDqaoc,Bệnh Gút,M10,Cơ xương khớp,DCCK10
+545,DedSRXEBAagyUEZDqasc,Bệnh Gút,M10,Cơ xương khớp,DCCK10
+143,EudSRXEBAagyUEZDqaoc,Bệnh hăm,L22,Da liễu,DCCK16
+800,oudSRXEBAagyUEZDqaoc,Bệnh hăm,L22,Da liễu,DCCK16
+323,iedSRXEBAagyUEZDqasd,Bệnh HUNTINGTON,F02.2,Tâm thần,DCCK32
+744,w-dSRXEBAagyUEZDqawd,Bệnh Huntington,G25.5,Thần kinh,DCCK35
+789,fOdSRXEBAagyUEZDqaoc,Bệnh khớp do thần kinh,M14.6,Cơ xương khớp,DCCK10
+852,BOdSRXEBAagyUEZDqawd,Bệnh lao ruột,A18.3,Truyền nhiễm,DCCK37
+467,TedSRXEBAagyUEZDqawd,Bệnh Lao Xương,A18.0,Truyền nhiễm,DCCK37
+862,TudSRXEBAagyUEZDqawd,Bệnh Lậu,A54,Truyền nhiễm,DCCK37
+642,LedSRXEBAagyUEZDqaoc,Bệnh liệt nửa mặt,G51,Thần kinh,DCCK35
+146,IedSRXEBAagyUEZDqaoc,Bệnh Lú lẫn,F06.7,Tâm thần,DCCK32
+441,iudSRXEBAagyUEZDqasd,Bệnh Lú Lẫn,F06.7,Tâm thần,DCCK32
+468,WOdSRXEBAagyUEZDqawd,Bệnh Lyme,A69.2,Truyền nhiễm,DCCK37
+499,F-dSRXEBAagyUEZDqa0d,Bệnh Lyme,A69.2,Truyền nhiễm,DCCK37
+27,NedSRXEBAagyUEZDqaoc,Bệnh Mạch Vành,I25.0,Tim mạch,DCCK11
+460,HedSRXEBAagyUEZDqawd,Bệnh Mạch Vành,I25.0,Tim mạch,DCCK11
+289,rOdSRXEBAagyUEZDqaoc,Bệnh mày đay,L50,Da liễu,DCCK16
+292,xOdSRXEBAagyUEZDqaoc,Bệnh MERS,U04,Hô hấp,DCCK36
+324,i-dSRXEBAagyUEZDqasd,Bệnh Mộng Du,F51.3,Tâm thần,DCCK32
+760,EudSRXEBAagyUEZDqa0d,Bệnh Mùa,B03,Truyền nhiễm,DCCK37
+124,7-dSRXEBAagyUEZDqawd,Bệnh Nấm Vùng Kín,B37.3,Sản phụ khoa,DCCK25
+659,qedSRXEBAagyUEZDqaoc,Bệnh ngứa,L28.2,Da liễu,DCCK16
+186,H-dSRXEBAagyUEZDqasd,Bệnh Nướu và Nha Chu,K05,Răng hàm mặt,DCCK13
+398,HudSRXEBAagyUEZDqaoc,Bệnh Parkinson,G20,Thần kinh,DCCK35
+442,jOdSRXEBAagyUEZDqasd,Bệnh PARKINSON,G20,Thần kinh,DCCK35
+173,xedSRXEBAagyUEZDqaoc,Bệnh phổi kẽ,J84,Hô hấp,DCCK36
+249,HedSRXEBAagyUEZDqa0d,Bệnh phổi kẽ,J84,Hô hấp,DCCK36
+402,QudSRXEBAagyUEZDqaoc,Bệnh phổi kẽ,J84,Hô hấp,DCCK37
+279,YedSRXEBAagyUEZDqaoc,Bệnh phong,A30,Truyền nhiễm,DCCK37
+604,dudSRXEBAagyUEZDqawd,Bệnh phong,A30,Truyền nhiễm,DCCK37
+330,zOdSRXEBAagyUEZDqasd,Bệnh POLYP Đại Tràng,K63.5,Tiêu hóa,DCCK20
+356,T-dSRXEBAagyUEZDqawd,Bệnh RuBella,B06,Truyền nhiễm,DCCK37
+105,ZOdSRXEBAagyUEZDqawd,Bệnh Rubeon,A60.9,Truyền nhiễm,DCCK37
+331,zedSRXEBAagyUEZDqasd,Bệnh Sa Trực Tràng,K62.3,Tiêu hóa,DCCK20
+301,CudSRXEBAagyUEZDqasc,Bệnh sarcoid,L92.8,Da liễu,DCCK16
+381,B-dSRXEBAagyUEZDqa0d,Bệnh sâu rǎng,K02,Răng hàm mặt,DCCK13
+361,eOdSRXEBAagyUEZDqawd,Bệnh tả,A00,Truyền nhiễm,DCCK37
+810,9OdSRXEBAagyUEZDqaoc,Bệnh tắc động mạch võng mạc,H34.2,Mắt,DCCK23
+621,EOdSRXEBAagyUEZDqa0d,Bệnh Tay Chân Miệng ,A08.4,Truyền nhiễm,DCCK37
+240,2edSRXEBAagyUEZDqawd,Bệnh Tây Chân Miệng ,A08.4,Truyền nhiễm,DCCK37
+222,UOdSRXEBAagyUEZDqawd,"Bệnh Tay, Chân, Miệng",A08.4,Truyền nhiễm,DCCK37
+525,XOdSRXEBAagyUEZDqaoc,"Bệnh Tay, Chân, Miệng",,Truyền nhiễm,DCCK37
+53,A-dSRXEBAagyUEZDqasc,Bệnh Thalassaemia,D56,Huyết học,DCCK02
+727,fOdSRXEBAagyUEZDqawd,Bệnh than,B96.6,Truyền nhiễm,DCCK37
+375,2udSRXEBAagyUEZDqawd,Bệnh Tiêu Chảy,K90.1,Tiêu hóa,DCCK20
+449,zudSRXEBAagyUEZDqasd,Bệnh Tiêu Chảy,K90.1,Tiêu hóa,DCCK20
+275,SOdSRXEBAagyUEZDqaoc,Bệnh tim do thiếu máu cục bộ,I25,Tim mạch,DCCK11
+461,HudSRXEBAagyUEZDqawd,Bệnh Tim Mạch,I51.6,Tim mạch,DCCK11
+354,R-dSRXEBAagyUEZDqawd,Bệnh tim to,I11.0,Tim mạch,DCCK11
+562,jedSRXEBAagyUEZDqasd,Bệnh TK Ngoại Biên,M79.2,Thần kinh,DCCK35
+572,z-dSRXEBAagyUEZDqasd,Bệnh Trĩ,I84,Tiêu hóa,DCCK20
+238,0OdSRXEBAagyUEZDqawd,Bệnh trĩ,I84,Tim mạch,DCCK11
+304,IOdSRXEBAagyUEZDqasd,Bệnh Tuỷ Răng,K04,Răng hàm mặt,DCCK13
+20,A-dSRXEBAagyUEZDqaoc,Bệnh U Mềm Lây,B08.1,Truyền nhiễm,DCCK37
+214,H-dSRXEBAagyUEZDqawd,Bệnh U Trong Tim,D15.1,Tim mạch,DCCK11
+184,_udSRXEBAagyUEZDqaoc,Bệnh Ưa Chảy Máu,D68.8,Huyết học,DCCK02
+30,Q-dSRXEBAagyUEZDqaoc,Bệnh van tim,I08,Tim mạch,DCCK11
+345,IOdSRXEBAagyUEZDqawd,Bệnh Van Tim,I08,Tim mạch,DCCK11
+21,DudSRXEBAagyUEZDqaoc,Bệnh vảy nến,L40,Da liễu,DCCK16
+717,GudSRXEBAagyUEZDqawd,Bệnh viêm ruột,K52,Tiêu hóa,DCCK20
+835,judSRXEBAagyUEZDqasd,Bệnh ZONA Thần kinh,B00.1,Tâm thần,DCCK32
+876,3-dSRXEBAagyUEZDqawd,Béo Phì,E66,Dinh dưỡng,DCCK07
+679,DOdSRXEBAagyUEZDqasc,Béo Phì,E66,Nội tiết,DCCK07
+752,6OdSRXEBAagyUEZDqawd,Bí quyết biến môi mỏng trở nên căng mọng,,Da liễu,DCCK16
+167,pudSRXEBAagyUEZDqaoc,Bỏng da,T29,Da liễu,DCCK16
+294,y-dSRXEBAagyUEZDqaoc,Bỏng hô hấp,T27,Hô hấp,DCCK38
+286,l-dSRXEBAagyUEZDqaoc,Bỏng Nắng,L55,Da liễu,DCCK16
+635,AudSRXEBAagyUEZDqaoc,Bỏng Nắng,L55,Da liễu,DCCK16
+672,5udSRXEBAagyUEZDqaoc,Bong võng mạc,H33,Mắt,DCCK23
+647,ROdSRXEBAagyUEZDqaoc,Bụi phổi atbet (amiăng),J63,Hô hấp,DCCK39
+805,zedSRXEBAagyUEZDqaoc,Bụi phổi atbet (amiăng),J63,Hô hấp,DCCK40
+415,0edSRXEBAagyUEZDqaoc,Bụi phổi bông,J66.0,Da liễu,DCCK16
+176,0udSRXEBAagyUEZDqaoc,Bụi phổi silic,J62,Hô hấp,DCCK41
+523,T-dSRXEBAagyUEZDqaoc,Bụi phổi silic,J62,Hô hấp,DCCK42
+139,8-dSRXEBAagyUEZDqakc,Bướu cổ,E01.0,Nội tiết,DCCK07
+548,GudSRXEBAagyUEZDqasc,Bướu cổ,E04,Nội tiết,DCCK07
+544,BedSRXEBAagyUEZDqasc,Các cách cầm máu,,,
+618,6edSRXEBAagyUEZDqawd,Cách chăm sóc khi da có hiện tượng mẩn đỏ,,Da liễu,DCCK16
+128,EedSRXEBAagyUEZDqa0d,Cảm Cúm,J10,Hô hấp,DCCK43
+721,UedSRXEBAagyUEZDqawd,Cảm Lạnh,J00,Hô hấp,DCCK44
+540,1-dSRXEBAagyUEZDqaoc,Cận Thị,H52.1,Mắt,DCCK23
+590,IudSRXEBAagyUEZDqawd,Cao Huyết Áp,I10,Tim mạch,DCCK11
+126,AedSRXEBAagyUEZDqa0d,Chậm kinh,N91,Sản phụ khoa,DCCK26
+322,g-dSRXEBAagyUEZDqasd,Chậm phát triển tâm thần,F78,Tâm thần,DCCK32
+121,3udSRXEBAagyUEZDqawd,Chân Khèo ,Q72,Cơ xương khớp,DCCK10
+395,BudSRXEBAagyUEZDqaoc,Chân Tay Lạnh,,,
+657,mOdSRXEBAagyUEZDqaoc,Chân Tay Lạnh ,,,
+653,gedSRXEBAagyUEZDqaoc,Chấn thương cột sống,M48.3,Cơ xương khớp,DCCK10
+172,w-dSRXEBAagyUEZDqaoc,Chấn thương khí quản,S11.0,Hô hấp,DCCK45
+328,wOdSRXEBAagyUEZDqasd,Chấn thương niệu đạo,S37.3,Thận tiết niệu,DCCK31
+399,IudSRXEBAagyUEZDqaoc,Chấn Thương Sọ Não,S06,Thần kinh,DCCK35
+566,q-dSRXEBAagyUEZDqasd,Chấn thương sọ não,S06,Thần kinh,DCCK35
+831,cudSRXEBAagyUEZDqasd,Chấn thương thanh quản,S17.0,Tai mũi họng,DCCK18
+420,8OdSRXEBAagyUEZDqaoc,Chắp và lẹo,H00,Mắt,DCCK23
+434,ZOdSRXEBAagyUEZDqasd,Chảy Máu Cam,R04.0,Tai mũi họng,DCCK18
+393,AOdSRXEBAagyUEZDqaoc,Chốc lở,L01,Da liễu,DCCK16
+534,pedSRXEBAagyUEZDqaoc,Chốc lở,L01,Da liễu,DCCK16
+546,DudSRXEBAagyUEZDqasc,Cholesterol Máu Cao,E78.0,Nội Tiết / Tiểu Đường,DCCK07
+317,WudSRXEBAagyUEZDqasd,Chửa trứng,O01,Sản phụ khoa,DCCK27
+782,V-dSRXEBAagyUEZDqaoc,Chứng Chân Không Nghỉ,,Thần kinh,DCCK35
+205,vedSRXEBAagyUEZDqasd,Chứng đái dầm,F98.0,Tâm thần,DCCK32
+450,0OdSRXEBAagyUEZDqasd,Chứng Khó Nốt,R13,Tiêu hóa,DCCK20
+18,-OdSRXEBAagyUEZDqakc,Chứng khó nuốt,R13,Tiêu hóa,DCCK20
+149,RedSRXEBAagyUEZDqaoc,Chứng tạo đờm do vi-rút,J20.5,Hô hấp,DCCK46
+293,yOdSRXEBAagyUEZDqaoc,Chứng tạo đờm do vi-rút,J20.5,Hô hấp,DCCK47
+485,wudSRXEBAagyUEZDqawd,Chứng Tiểu Đêm,F98.0,Tâm thần,DCCK32
+281,cedSRXEBAagyUEZDqaoc,Chuột Rút,R25.2,Cơ xương khớp,DCCK10
+406,VedSRXEBAagyUEZDqaoc,Chuột Rút,R25.2,Cơ xương khớp,DCCK10
+80,0edSRXEBAagyUEZDqasd,Co Thắt Tâm Vị,K22.0,Tiêu hóa,DCCK20
+770,3-dSRXEBAagyUEZDqakc,Co thắt tâm vị,K22.0,Tiêu hóa,DCCK20
+711,0udSRXEBAagyUEZDqasd,Co Thắt Thực Quản,K22.0,Tiêu hóa,DCCK20
+521,SudSRXEBAagyUEZDqaoc,"Co thắt thực quản
+",K22.0,Tiêu hóa,DCCK20
+648,UOdSRXEBAagyUEZDqaoc,Cơ tim phì đại,I42.2,Tim mạch,DCCK11
+352,QOdSRXEBAagyUEZDqawd,"Cơ tim phì đại
+",I42.2,Tim mạch,DCCK11
+410,audSRXEBAagyUEZDqaoc,Còi xương,E55.0,Cơ xương khớp,DCCK10
+528,cudSRXEBAagyUEZDqaoc,Còi Xương,E55.0,Cơ xương khớp,DCCK10
+388,0-dSRXEBAagyUEZDqakc,Cơn đau quặn thận,N23,Thận tiết niệu,DCCK31
+569,w-dSRXEBAagyUEZDqasd,Cơn đau quặn thận,N23,Thận tiết niệu,DCCK31
+520,O-dSRXEBAagyUEZDqaoc,Cơn Đau Thắt Ngực,I20,Tim mạch,DCCK11
+462,I-dSRXEBAagyUEZDqawd,Cơn Đâu Thắt Ngực,I20,Tim mạch,DCCK11
+150,S-dSRXEBAagyUEZDqaoc,Cơn hen phế quản,J46,Hô hấp,DCCK48
+174,zOdSRXEBAagyUEZDqaoc,Cơn hen phế quản,J46,Hô hấp,DCCK49
+242,4-dSRXEBAagyUEZDqawd,Cơn hen phế quản,J46,Hô hấp,DCCK50
+282,c-dSRXEBAagyUEZDqaoc,Cong Vẹo Cột Sống,M41,Cơ xương khớp,DCCK10
+101,UudSRXEBAagyUEZDqawd,Cúm Gà (H5N1),J10,Hô hấp,DCCK51
+751,5edSRXEBAagyUEZDqawd,Cúm gà (H5N1),J10,Hô hấp,DCCK52
+102,U-dSRXEBAagyUEZDqawd,Cúm H1N1,J10,Hô hấp,DCCK53
+811,-OdSRXEBAagyUEZDqaoc,Cườm nước,H40,Mắt,DCCK23
+426,E-dSRXEBAagyUEZDqasc,Cường aldosterone,E26,Nội tiết,DCCK07
+302,FudSRXEBAagyUEZDqasc,Cường cận giáp,E21,Nội tiết,DCCK07
+550,M-dSRXEBAagyUEZDqasd,Cứu Nước Đuối,,,
+39,p-dSRXEBAagyUEZDqaoc,Da bọng nước tự miễn Pemphigus,L10,Da liễu,DCCK16
+142,CudSRXEBAagyUEZDqaoc,Da bọng nước tự miễn Pemphigus,L10,Da liễu,DCCK16
+64,XOdSRXEBAagyUEZDqasd,Đa ối,O40,Sản phụ khoa,DCCK28
+845,xOdSRXEBAagyUEZDqasd,Đái máu,R31,Thận tiết niệu,DCCK31
+680,GOdSRXEBAagyUEZDqasc,Đái tháo nhạt,E23.2,Nội tiết,DCCK07
+880,-udSRXEBAagyUEZDqawd,Đau Bụng Kinh,N94,Sản phụ khoa,DCCK29
+12,4OdSRXEBAagyUEZDqakc,Đau dạ dày không do viêm loét,K30,Tiêu Hóa,DCCK20
+88,_udSRXEBAagyUEZDqasd,Đau dạ dày không do viêm loét,K30,Tiêu hóa,DCCK20
+35,dedSRXEBAagyUEZDqaoc,Đau Đầu Gối,S80.0,Cơ xương khớp,DCCK10
+407,XudSRXEBAagyUEZDqaoc,Đau đầu gối,S80.0,Cơ xương khớp,DCCK10
+779,JudSRXEBAagyUEZDqaoc,Đâu đầu mãn tính,G44,Tâm thần,DCCK32
+563,j-dSRXEBAagyUEZDqasd,Đau Đàu Mãng Tính,G44,Thần kinh,DCCK35
+75,oedSRXEBAagyUEZDqasd,Đau dây thần kinh tam thoa,G50,Thần kinh,DCCK35
+33,ZOdSRXEBAagyUEZDqaoc,Đau lưng,M54,Cơ xương khớp,DCCK10
+156,dOdSRXEBAagyUEZDqaoc,Đau Lưng ,M54,Cơ xương khớp,DCCK10
+297,5-dSRXEBAagyUEZDqaoc,Đau mắt đỏ,B30,Mắt,DCCK23
+46,2OdSRXEBAagyUEZDqaoc,Đau Mắt Hột,A71,Mắt,DCCK23
+138,7-dSRXEBAagyUEZDqakc,Đau nhức toàn thân,R68.8,Cơ xương khớp,DCCK10
+276,UedSRXEBAagyUEZDqaoc,Đau nhức toàn thân,R68.8,Cơ xương khớp,DCCK10
+527,a-dSRXEBAagyUEZDqaoc,Đau nhức toàn thân,R68.8,Cơ xương khớp,DCCK10
+787,dudSRXEBAagyUEZDqaoc,Đau Nhứt Toàn Thân,,Cơ xương khớp,DCCK10
+486,xudSRXEBAagyUEZDqawd,Đâu Nhứt Toàn Thân,,,
+71,kOdSRXEBAagyUEZDqasd,Đau Nữa Đầu,G43,Thần kinh,DCCK35
+641,JedSRXEBAagyUEZDqaoc,Đâu nữa đầu,G43,Thần kinh,DCCK35
+147,MedSRXEBAagyUEZDqaoc,Đau nửa đầu migrain,G43,Thần kinh,DCCK35
+840,p-dSRXEBAagyUEZDqasd,Đau nửa đầu migrain,G44,Thần kinh,DCCK35
+72,kedSRXEBAagyUEZDqasd,Đau Thần Kinh Toạ,M54.3,Cơ xương khớp,DCCK10
+649,WedSRXEBAagyUEZDqaoc,Đâu Thần Kinh Toạ,M54.3,Cơ xương khớp,DCCK10
+168,q-dSRXEBAagyUEZDqaoc,Dày sừng ánh sáng,L57.0,Da liễu,DCCK16
+380,--dSRXEBAagyUEZDqawd,Dậy Thì,E30,Nhi khoa,DCCK06
+65,YOdSRXEBAagyUEZDqasd,Đẻ non,P07,Sản phụ khoa,DCCK30
+495,_OdSRXEBAagyUEZDqawd,"Di Tinh , Mộng Tinh",,Nam học,DCCK08
+22,D-dSRXEBAagyUEZDqaoc,Dị ứng thực phẩm,L23.6,Da liễu,DCCK16
+506,1OdSRXEBAagyUEZDqakc,Dị ứng thực phẩm,L24.6,Da liễu,DCCK16
+661,sudSRXEBAagyUEZDqaoc,Dị Ứng Thực Phẩm,L23.6,Dị ứng miễn dịch,DCCK21
+662,s-dSRXEBAagyUEZDqaoc,Dị Ứng Thuốc,L23.3,Dị ứng miễn dịch,DCCK21
+776,FedSRXEBAagyUEZDqaoc,Dị ứng thuốc,L56.1,Dị ứng miễn dịch,DCCK21
+668,zudSRXEBAagyUEZDqaoc,Dị vật đường thở,W80,Hô hấp,DCCK54
+561,d-dSRXEBAagyUEZDqasd,Dị vật trong tai,M79.5,Tai mũi họng,DCCK18
+106,ZedSRXEBAagyUEZDqawd,Dịch hạch,A20,Truyền nhiễm,DCCK37
+693,ZedSRXEBAagyUEZDqasd,Điếc,H90,Tai mũi họng,DCCK18
+761,E-dSRXEBAagyUEZDqa0d,Đỏ Mắt ,B30,Truyền nhiễm,DCCK37
+344,HOdSRXEBAagyUEZDqawd,Động Mạch Ngoại Vi,I79,Tim mạch,DCCK11
+677,COdSRXEBAagyUEZDqasc,Đông máu nội mạc rải rác,D65,Tim mạch,DCCK11
+421,8edSRXEBAagyUEZDqaoc,Đục thủy tinh thể,H26,Mắt,DCCK23
+300,-edSRXEBAagyUEZDqaoc,Đục thủy tinh thể người già,H25,Mắt,DCCK23
+870,kedSRXEBAagyUEZDqawd,Escherichia coli,B96.2,Truyền nhiễm,DCCK37
+257,6edSRXEBAagyUEZDqakc,Gai Cột sống,M47,Cơ xương khớp,DCCK10
+530,fedSRXEBAagyUEZDqaoc,Gai cột sống,M47,Cơ xương khớp,DCCK10
+169,r-dSRXEBAagyUEZDqaoc,Gai đen,L83,Da liễu,DCCK16
+264,EOdSRXEBAagyUEZDqaoc,Gai đen,L83,Da liễu,DCCK16
+11,2udSRXEBAagyUEZDqakc,Gan nhiễm mỡ,K70.0,Tiêu Hóa,DCCK20
+573,0-dSRXEBAagyUEZDqasd,Gan Nhiễm Mỡ,K76.0,Tiêu hóa,DCCK20
+13,4edSRXEBAagyUEZDqakc,Gan nhiễm mỡ không do rượu,K76.0,Tiêu Hóa,DCCK20
+81,1OdSRXEBAagyUEZDqasd,Gan Nhiễm Mỡ Không Do Rượu,K76.0,Tiêu hóa,DCCK20
+451,1edSRXEBAagyUEZDqasd,Gan To,,Tiêu hóa,DCCK20
+507,1edSRXEBAagyUEZDqakc,Gan to,,Tiêu hóa,DCCK20
+654,gudSRXEBAagyUEZDqaoc,Gãy xương,X59.0,Cơ xương khớp,DCCK10
+162,medSRXEBAagyUEZDqaoc,Ghẻ,A66,Da liễu,DCCK16
+773,AedSRXEBAagyUEZDqaoc,Ghẻ,A66,Da liễu,DCCK16
+606,fudSRXEBAagyUEZDqawd,"Ghẻ cóc
+",A66,Truyền nhiễm,DCCK37
+201,redSRXEBAagyUEZDqasd,Ghép Thận,Z94.0,Thận tiết niệu,DCCK31
+274,RudSRXEBAagyUEZDqaoc,Ghép tim,Z94.1,Tim mạch,DCCK11
+591,JOdSRXEBAagyUEZDqawd,Ghép Tim,Z94.1,Tim mạch,DCCK11
+285,hudSRXEBAagyUEZDqaoc,Giả gout,M10.9,Cơ xương khớp,DCCK10
+408,X-dSRXEBAagyUEZDqaoc,Giả gout,M10.9,Cơ xương khớp,DCCK10
+806,0-dSRXEBAagyUEZDqaoc,Giãn phế quản,J47,Hô hấp,DCCK55
+218,OOdSRXEBAagyUEZDqawd,Giãn tĩnh mạch chi dưới,I83,Tim mạch,DCCK11
+280,ZedSRXEBAagyUEZDqaoc,Giãn tĩnh mạch chi dưới,I83,Tim mạch,DCCK11
+82,1udSRXEBAagyUEZDqasd,Giãn Tĩnh Mạch Thực Quản,I85,Tim mạch,DCCK11
+405,UudSRXEBAagyUEZDqaoc,"Giãn tĩnh mạch thực quản
+",I85,Nam học,DCCK08
+190,O-dSRXEBAagyUEZDqasd,Giãn Tĩnh Mạch Tinh,I86.1,Nam học,DCCK08
+493,8edSRXEBAagyUEZDqawd,Giãn Tĩnh Mạch Tinh,I86.1,Nam học,DCCK08
+764,tudSRXEBAagyUEZDqakc,Giãn tĩnh mạch tinh,I86.1,Nam học,DCCK08
+132,uudSRXEBAagyUEZDqakc,Giang mai,A51,Truyền nhiễm,DCCK37
+598,VOdSRXEBAagyUEZDqawd,Giang Mai,A51,Truyền nhiễm,DCCK37
+866,gedSRXEBAagyUEZDqawd,Giun kim,B80,Truyền nhiễm,DCCK37
+417,4-dSRXEBAagyUEZDqaoc,Glôcôm góc đóng nguyên phát,H40.2,Da liễu,DCCK16
+182,6OdSRXEBAagyUEZDqaoc,Glôcôm góc mở nguyên phát,H40.1,Mắt,DCCK23
+396,EedSRXEBAagyUEZDqaoc,Hạ cam mềm,A57,Truyền nhiễm,DCCK37
+615,zudSRXEBAagyUEZDqawd,Hạ cam mềm,A57,Truyền nhiễm,DCCK37
+229,jOdSRXEBAagyUEZDqawd,"Hạ cam mềm
+",A57,Truyền nhiễm,DCCK37
+547,D-dSRXEBAagyUEZDqasc,Hạ Đường Huyết,E16.1,Nội tiết,DCCK07
+163,mudSRXEBAagyUEZDqaoc,Hắc Lào,B35,Da liễu,DCCK16
+636,B-dSRXEBAagyUEZDqaoc,Hắc Lào,B35,Da liễu,DCCK16
+298,6-dSRXEBAagyUEZDqaoc,Hắc võng mạc trung tâm,H30,Mắt,DCCK23
+759,DudSRXEBAagyUEZDqa0d,Hen,J45,Dị ứng miễn dịch,DCCK21
+664,t-dSRXEBAagyUEZDqaoc,Hen Phế Quản,J45,Dị ứng miễn dịch,DCCK21
+758,C-dSRXEBAagyUEZDqa0d,Hen phế quản ở trẻ em,J45.0,Dị ứng miễn dịch,DCCK21
+171,uOdSRXEBAagyUEZDqaoc,Hen Suyễn ,J45,Hô hấp,DCCK56
+385,v-dSRXEBAagyUEZDqakc,Hẹp bao quy đầu,N47,Nam học,DCCK08
+883,BedSRXEBAagyUEZDqa0d,Hẹp bao quy đầu,N47,Nam học,DCCK08
+83,1-dSRXEBAagyUEZDqasd,Hẹp Môn Vị,K31.1,Tiêu hóa,DCCK20
+133,2-dSRXEBAagyUEZDqakc,Hẹp môn vị,K31.1,Tiêu hóa,DCCK20
+89,_-dSRXEBAagyUEZDqasd,Hẹp môn vị phì đại,K31.1,Tiêu hóa,DCCK20
+631,4udSRXEBAagyUEZDqakc,Hẹp môn vị phì đại,K31.1,Tiêu hóa,DCCK20
+16,9OdSRXEBAagyUEZDqakc,Hẹp thanh quản,J38.6,Tai mũi họng,DCCK18
+350,POdSRXEBAagyUEZDqawd,"Hẹp van 2 lá
+",I05.0,Tim mạch,DCCK11
+552,PedSRXEBAagyUEZDqasd,Herpes Sinh Dục,A60,Truyền nhiễm,DCCK37
+765,t-dSRXEBAagyUEZDqakc,Herpes sinh dục,A60.0,Truyền nhiễm,DCCK37
+130,sOdSRXEBAagyUEZDqakc,Hiếm Muộn,N46,Nam học,DCCK08
+686,PudSRXEBAagyUEZDqasd,Hiếm Muộn,N46,Nam học,DCCK08
+103,VedSRXEBAagyUEZDqawd,HIV/AIDS,B20,Truyền nhiễm,DCCK37
+512,7OdSRXEBAagyUEZDqakc,Ho,,Hô hấp,DCCK57
+694,ZudSRXEBAagyUEZDqasd,Ho,,Tai mũi họng,DCCK18
+100,QedSRXEBAagyUEZDqawd,Hở van 2 lá,I34.0,Tim mạch,DCCK11
+491,5OdSRXEBAagyUEZDqawd,Hở van 2 lá,I34.0,Tim mạch,DCCK11
+861,RudSRXEBAagyUEZDqawd,Hở van 3 lá,I07.1,Tim mạch,DCCK11
+596,SOdSRXEBAagyUEZDqawd,Hở van động mạch chủ do thấp,I06.1,Tim mạch,DCCK11
+746,y-dSRXEBAagyUEZDqawd,Hở van động mạch chủ do thấp,I06.1,Tim mạch,DCCK11
+705,pOdSRXEBAagyUEZDqasd,Hoa mắt chóng mặt,R42,Thần kinh,DCCK35
+612,v-dSRXEBAagyUEZDqawd,Hoàng Điềm,H35.3,Mắt,DCCK23
+700,f-dSRXEBAagyUEZDqasd,Hội Chứng ADHD,F90.0,Tâm thần,DCCK32
+433,XedSRXEBAagyUEZDqasd,Hội chứng buồng trứng đa nang,E28.2,Sản phụ khoa,DCCK31
+160,iudSRXEBAagyUEZDqaoc,Hội chứng chân không nghỉ,F44.4,Tâm thần,DCCK32
+650,bOdSRXEBAagyUEZDqaoc,"Hội chứng chân không nghỉ
+",F44.4,Thần kinh,DCCK35
+185,FOdSRXEBAagyUEZDqasc,Hội chứng Cushing,E24,Nội tiết,DCCK07
+699,fudSRXEBAagyUEZDqasd,Hội Chứng Down,Q90,Nhi khoa,DCCK06
+215,JudSRXEBAagyUEZDqawd,Hội Chứng MARFAN,Q87.4,Tim mạch,DCCK11
+515,FudSRXEBAagyUEZDqaoc,Hội chứng Marfan,Q87.4,Tim mạch,DCCK11
+784,YOdSRXEBAagyUEZDqaoc,Hội chứng ống cổ tay,G56.0,Thần kinh,DCCK35
+76,qOdSRXEBAagyUEZDqasd,"Hội chứng ống cổ tay
+",G56.0,Thần kinh,DCCK35
+860,QudSRXEBAagyUEZDqawd,Hội chứng QT kéo dài,,Tim mạch,DCCK11
+84,2OdSRXEBAagyUEZDqasd,Hội Chứng Ruột Kích Thích,K58,Tiêu hóa,DCCK20
+389,1udSRXEBAagyUEZDqakc,Hội chứng ruột kích thích,K58,Tiêu hóa,DCCK20
+7,y-dSRXEBAagyUEZDqakc,Hội Chứng Thận Hư,N04,Thận tiết niệu,DCCK31
+77,rudSRXEBAagyUEZDqasd,Hội Chứng Thận Hư,N04,Thận tiết niệu,DCCK31
+508,3OdSRXEBAagyUEZDqakc,Hội chứng thận hư,N04,Thận tiết niệu,DCCK31
+92,DedSRXEBAagyUEZDqawd,Hội chứng thèm ăn,F50.2,Tâm thần,DCCK32
+127,A-dSRXEBAagyUEZDqa0d,Hội chứng tiền mãn kinh,N92.4,Sản phụ khoa,DCCK32
+96,JedSRXEBAagyUEZDqawd,Hộii Chứng BRUGADA,I45.6,Tim mạch,DCCK11
+458,EudSRXEBAagyUEZDqawd,"Hôn mê gan
+",B19.0,Tiêu hóa,DCCK20
+463,J-dSRXEBAagyUEZDqawd,Huyết Áp Thấp,I95,Tim mạch,DCCK11
+97,KOdSRXEBAagyUEZDqawd,Huyết khối Tĩnh Mạch Sâu,I82,Tim mạch,DCCK11
+785,ZudSRXEBAagyUEZDqaoc,Huyết khối tĩnh mạch sâu,I82,Tim mạch,DCCK11
+614,xOdSRXEBAagyUEZDqawd,Huyết Khối Tĩnh Mạch Sâu (DVT),I82,Tim mạch,DCCK11
+824,POdSRXEBAagyUEZDqasd,Huyết Trang do Vi Khuẩn,N76.0,Sản phụ khoa,DCCK33
+503,u-dSRXEBAagyUEZDqakc,Huyết trắng do vi khuẩn,B37.3,Truyền nhiễm,DCCK37
+574,2edSRXEBAagyUEZDqasd,Khe Nứt và Lỗ Rò Hậu Môn,K60,Tiêu hóa,DCCK20
+263,DOdSRXEBAagyUEZDqaoc,"Khe nứt và lỗ rò hậu môn, trực tràng",K60,Tiêu hóa,DCCK20
+295,1OdSRXEBAagyUEZDqaoc,Khí phế thũng,T79.7,Hô hấp,DCCK58
+748,1-dSRXEBAagyUEZDqawd,Khô Da,L85.3,Da liễu,DCCK16
+178,2edSRXEBAagyUEZDqaoc,Khô Mắt,H04.5,Mắt,DCCK23
+308,KudSRXEBAagyUEZDqasd,Khô miệng,R68.2,Răng hàm mặt,DCCK13
+459,E-dSRXEBAagyUEZDqawd,Khó tiêu,K30,Tiêu hóa,DCCK20
+509,4-dSRXEBAagyUEZDqakc,Khó tiêu,K30,Tiêu hóa,DCCK20
+57,F-dSRXEBAagyUEZDqasc,Không dung nạp lactose,E73,Nội tiết,DCCK07
+575,2udSRXEBAagyUEZDqasd,Kiết Lỵ,A03,Truyền nhiễm,DCCK37
+669,2udSRXEBAagyUEZDqaoc,Lác Mắt,H50,Mắt,DCCK23
+431,P-dSRXEBAagyUEZDqasd,Lạc Nội Mạc Tử Cung,N80,Sản phụ khoa,DCCK34
+754,-edSRXEBAagyUEZDqawd,Lãnh Cảm,F25.1,Tâm thần,DCCK32
+725,cedSRXEBAagyUEZDqawd,Lao cột sống,M49.0,Truyền nhiễm,DCCK37
+474,f-dSRXEBAagyUEZDqawd,Lao hệ tiết niệu - sinh dục,A18.1,Truyền nhiễm,DCCK37
+4,wOdSRXEBAagyUEZDqakc,Lao hệ tiết niệu sinh dục,A18.1,Sản phụ khoa,DCCK35
+19,_-dSRXEBAagyUEZDqakc,Lão Hoá Da,L85.3,Da liễu,DCCK16
+164,m-dSRXEBAagyUEZDqaoc,Lão Hoá Da,L85.3,Da liễu,DCCK16
+261,BedSRXEBAagyUEZDqaoc,Lão Hóa Da,L85.3,Da liễu,DCCK16
+869,jedSRXEBAagyUEZDqawd,Lao họng,B90.9,Truyền nhiễm,DCCK37
+366,judSRXEBAagyUEZDqawd,Lao kê,A19,Truyền nhiễm,DCCK37
+469,WedSRXEBAagyUEZDqawd,Lao phổi,A15,Truyền nhiễm,DCCK37
+256,0udSRXEBAagyUEZDqakc,Lao Ruột,A18.3,Truyền nhiễm,DCCK37
+599,VudSRXEBAagyUEZDqawd,Lao Ruột,A18.3,Truyền nhiễm,DCCK37
+542,8udSRXEBAagyUEZDqaoc,Lão thị,H52.4,Mắt,DCCK23
+244,-OdSRXEBAagyUEZDqawd,Liệt Dương,F52.2,Nam học,DCCK08
+551,OudSRXEBAagyUEZDqasd,Liệt Dương,N48.4,Nam học,DCCK08
+564,kudSRXEBAagyUEZDqasd,Liệt Mặt Ngoại Biên,G51.0,Thần kinh,DCCK35
+640,I-dSRXEBAagyUEZDqaoc,Liệt mặt ngoại biên,G51.0,Thần kinh,DCCK35
+701,k-dSRXEBAagyUEZDqasd,Liệt Nữa Mặt,G51.0,Thần kinh,DCCK35
+702,lOdSRXEBAagyUEZDqasd,Liệt Nữa Người,G81,Thần kinh,DCCK35
+703,ledSRXEBAagyUEZDqasd,Lo Âu,F06.4,Tâm thần,DCCK32
+839,pedSRXEBAagyUEZDqasd,Loạn dưỡng cơ,G71.0,Tâm thần,DCCK32
+332,2-dSRXEBAagyUEZDqasd,Loạn Khuẩn Đường Ruột,A04,Tiêu hóa,DCCK20
+179,2-dSRXEBAagyUEZDqaoc,Loạn Thị,H52.2,Mắt,DCCK23
+326,qedSRXEBAagyUEZDqasd,Loạn trương lực cơ,G24,Thần kinh,DCCK35
+788,d-dSRXEBAagyUEZDqaoc,Loãng Xương,M81,Cơ xương khớp,DCCK10
+378,9OdSRXEBAagyUEZDqawd,Loãng Xương ,M81,Cơ xương khớp,DCCK10
+154,bedSRXEBAagyUEZDqaoc,Loãng xương ở nam giới,M81.8,Cơ xương khớp,DCCK10
+656,kOdSRXEBAagyUEZDqaoc,Loãng xương ở nam giới,M81,Cơ xương khớp,DCCK10
+390,1-dSRXEBAagyUEZDqakc,Loét dạ dày - tá tràng,K27,Tiêu hóa,DCCK20
+452,3OdSRXEBAagyUEZDqasd,Loét Dạ Dày - Tá Tràng,K27,Tiêu hóa,DCCK20
+48,5OdSRXEBAagyUEZDqaoc,Loét giác mạc,H16.0,Mắt,DCCK23
+67,c-dSRXEBAagyUEZDqasd,Loét miệng,K12.3,Tiêu hóa,DCCK20
+134,3edSRXEBAagyUEZDqakc,Loét tiêu hoá,K28,Tiêu hóa,DCCK20
+576,3edSRXEBAagyUEZDqasd,Loét Tiêu Hoá,K28,Tiêu hóa,DCCK20
+49,6edSRXEBAagyUEZDqaoc,Lông quặm,H02.0,Mắt,DCCK23
+577,3udSRXEBAagyUEZDqasd,Lồng Ruột,K56.1,Tiêu hóa,DCCK20
+771,5OdSRXEBAagyUEZDqakc,Lồng ruột,K56.1,Tiêu hóa,DCCK20
+658,qOdSRXEBAagyUEZDqaoc,"Lupus ban đỏ
+",L93,Da liễu,DCCK16
+769,2OdSRXEBAagyUEZDqakc,Lỵ amip cấp,A06.0,Truyền nhiễm,DCCK37
+630,3udSRXEBAagyUEZDqakc,Lỵ trực trùng Shigella dysenteriae,A03.0,Tiêu hóa,DCCK20
+733,j-dSRXEBAagyUEZDqawd,Lỵ trực trùng Shigella dysenteriae,A03.0,Truyền nhiễm,DCCK37
+311,QOdSRXEBAagyUEZDqasd,Mãn Kinh Nam,,,
+553,QedSRXEBAagyUEZDqasd,Mãn Kinh Nữ,N95.1,Sản phụ khoa,DCCK36
+510,5edSRXEBAagyUEZDqakc,Mang thai,Z32.1,Sản phụ khoa,DCCK37
+554,QudSRXEBAagyUEZDqasd,Mang Thai,Z32.1,Sản phụ khoa,DCCK38
+881,_edSRXEBAagyUEZDqawd,Mất Kinh,N91,Sản phụ khoa,DCCK39
+392,_OdSRXEBAagyUEZDqakc,Mày Đay,L50,Da liễu,DCCK16
+878,7OdSRXEBAagyUEZDqawd,Mẹo làm đẹp với nước đá,,Da liễu,DCCK16
+267,KedSRXEBAagyUEZDqaoc,Mọc răng,K00.7,Răng hàm mặt,DCCK13
+305,IedSRXEBAagyUEZDqasd,Mọc Răng,K00.7,Răng hàm mặt,DCCK13
+820,LudSRXEBAagyUEZDqasd,Mòn răng,K03.1,Răng hàm mặt,DCCK13
+419,7OdSRXEBAagyUEZDqaoc,Mộng thịt,H11.0,Mắt,DCCK23
+673,8-dSRXEBAagyUEZDqaoc,Mù màu,H53.5,Mắt,DCCK23
+445,oudSRXEBAagyUEZDqasd,Múa giật,G25.5,Thần kinh,DCCK35
+783,W-dSRXEBAagyUEZDqaoc,"Mụn Cóc, Hạt Cơm",B07,Truyền nhiễm,DCCK37
+660,sOdSRXEBAagyUEZDqaoc,"Mụn cóc,hạt cơm",B07,Da liễu,DCCK16
+287,o-dSRXEBAagyUEZDqaoc,Mụn cơm,B07,Da liễu,DCCK16
+624,redSRXEBAagyUEZDqakc,Mụn Cơm Sinh Dục,A63.0,Truyền nhiễm,DCCK37
+825,Q-dSRXEBAagyUEZDqasd,Mụn Cơm Sinh Dục,A63.0,Truyền nhiễm,DCCK37
+504,vOdSRXEBAagyUEZDqakc,Mụn rộp sinh dục,A60.0,Truyền nhiễm,DCCK37
+37,nOdSRXEBAagyUEZDqaoc,Mụn Trứng Cá,L70,Da liễu,DCCK16
+59,ROdSRXEBAagyUEZDqasd,Nấm Âm Đạo,B37.3,Sản phụ khoa,DCCK40
+505,wedSRXEBAagyUEZDqakc,Nấm âm đạo,B37.3,Truyền nhiễm,DCCK37
+494,8-dSRXEBAagyUEZDqawd,Nấm Da Bàn Chân,B35.3,Da liễu,DCCK16
+383,G-dSRXEBAagyUEZDqa0d,"Nấm họng
+
+",B37.0,Truyền nhiễm,DCCK37
+435,Z-dSRXEBAagyUEZDqasd,Nấm Lưỡi,K14,Tai mũi họng,DCCK18
+296,3OdSRXEBAagyUEZDqaoc,Nấm Mắt,H16.2,Mắt,DCCK23
+187,KedSRXEBAagyUEZDqasd,Nấm miệng,B37.0,Răng hàm mặt,DCCK13
+278,WudSRXEBAagyUEZDqaoc,Nấm Móng,B35.1,Truyền nhiễm,DCCK37
+587,FOdSRXEBAagyUEZDqawd,"Nang gan
+",Q44.6,Tiêu hóa,DCCK20
+312,RedSRXEBAagyUEZDqasd,Nạo Phá Thai,O05,Sản phụ khoa,DCCK41
+246,DOdSRXEBAagyUEZDqa0d,Ngạt mũi và sổ mũi,,Tai mũi họng,DCCK18
+682,IudSRXEBAagyUEZDqasd,Nghiến Răng Khi Ngủ ,G47.8,Tâm thần,DCCK32
+821,NOdSRXEBAagyUEZDqasd,Ngộ Độc Thực Phẩm,T62,Tiêu hóa,DCCK20
+260,_edSRXEBAagyUEZDqakc,Ngứa,L28.2,Da liễu,DCCK16
+212,AOdSRXEBAagyUEZDqawd,Ngứa hậu môn,L29.0,Tiêu hóa,DCCK20
+877,6udSRXEBAagyUEZDqawd,Ngực tròn trĩnh nhờ mát-xa với đá lạnh,,,
+667,yedSRXEBAagyUEZDqaoc,Ngưng thở khi ngủ do tắc nghẽn,G47.3,Hô hấp,DCCK59
+602,Z-dSRXEBAagyUEZDqawd,Nhiễm Balantidium,A07.0,Truyền nhiễm,DCCK37
+360,cudSRXEBAagyUEZDqawd,Nhiễm candida,B37,Truyền nhiễm,DCCK37
+364,gOdSRXEBAagyUEZDqawd,Nhiễm Clostridium botulinum,B96.7,Truyền nhiễm,DCCK37
+313,RudSRXEBAagyUEZDqasd,Nhiễm Độc Thai Nghén,P93,Sản phụ khoa,DCCK42
+734,kOdSRXEBAagyUEZDqawd,Nhiễm Echinococcus,B67,Truyền nhiễm,DCCK37
+863,W-dSRXEBAagyUEZDqawd,Nhiễm Giardia lamblia,A07.1,Truyền nhiễm,DCCK37
+723,aOdSRXEBAagyUEZDqawd,Nhiễm giun chỉ,B73,Truyền nhiễm,DCCK37
+472,c-dSRXEBAagyUEZDqawd,Nhiễm giun đũa,B77,Truyền nhiễm,DCCK37
+735,kudSRXEBAagyUEZDqawd,Nhiễm giun lươn,B78,Truyền nhiễm,DCCK37
+382,FudSRXEBAagyUEZDqa0d,"Nhiễm giun lươn
+",B78,Truyền nhiễm,DCCK37
+357,XOdSRXEBAagyUEZDqawd,Nhiễm giun móc,B76,Truyền nhiễm,DCCK37
+358,aedSRXEBAagyUEZDqawd,Nhiễm giun tóc,B79,Truyền nhiễm,DCCK37
+333,3-dSRXEBAagyUEZDqasd,Nhiễm H. PYLORI (HP),B98.0,Tiêu hóa,DCCK20
+473,dOdSRXEBAagyUEZDqawd,Nhiễm herpes simplex,B00,Truyền nhiễm,DCCK37
+365,gudSRXEBAagyUEZDqawd,Nhiễm herpes zoster,B02,Truyền nhiễm,DCCK37
+109,k-dSRXEBAagyUEZDqawd,Nhiễm khuẩn chlamydia,A56,Truyền nhiễm,DCCK37
+763,r-dSRXEBAagyUEZDqakc,Nhiễm Khuẩn Chlamydia,A70,Truyền nhiễm,DCCK37
+853,BedSRXEBAagyUEZDqawd,Nhiễm khuẩn E. coli,A04.0,Truyền nhiễm,DCCK37
+489,z-dSRXEBAagyUEZDqawd,Nhiễm khuẩn hô hấp,J06,Hô hấp,DCCK60
+828,XudSRXEBAagyUEZDqasd,Nhiễm khuẩn sau sinh,O85,Sản phụ khoa,DCCK43
+253,vedSRXEBAagyUEZDqakc,Nhiễm lậu cầu,A54.9,Truyền nhiễm,DCCK37
+470,XedSRXEBAagyUEZDqawd,Nhiễm lậu cầu,A54,Truyền nhiễm,DCCK37
+724,audSRXEBAagyUEZDqawd,Nhiễm leptospira,A27,Truyền nhiễm,DCCK37
+227,dedSRXEBAagyUEZDqawd,Nhiễm Nocardia,A43,Truyền nhiễm,DCCK37
+476,lOdSRXEBAagyUEZDqawd,Nhiễm sán máng,B65,Truyền nhiễm,DCCK37
+104,XudSRXEBAagyUEZDqawd,Nhiễm Shigella,A03,Truyền nhiễm,DCCK37
+107,a-dSRXEBAagyUEZDqawd,Nhiễm trùng huyết,A41.8,Truyền nhiễm,DCCK37
+841,r-dSRXEBAagyUEZDqasd,Nhiễm Trùng Tiết Niệu,N39.0,Thận tiết niệu,DCCK31
+219,OedSRXEBAagyUEZDqawd,Nhịp nhanh thất,I47.2,Tim mạch,DCCK11
+718,PedSRXEBAagyUEZDqawd,Nhịp nhanh trên thất,I47.1,Tim mạch,DCCK11
+595,Q-dSRXEBAagyUEZDqawd,Nhịp tim chậm,R00.1,Tim mạch,DCCK11
+28,N-dSRXEBAagyUEZDqaoc,Nhồi Máu Cơ Tim,I21,Tim mạch,DCCK11
+464,KedSRXEBAagyUEZDqawd,Nhồi Máu Cơ Tim,I21,Tim mạch,DCCK11
+822,NedSRXEBAagyUEZDqasd,Nhồi Máu Cơ Tim,I21,Tim mạch,DCCK11
+221,SedSRXEBAagyUEZDqawd,Nhồi máu cơ tim cấp,I21,Tim mạch,DCCK11
+200,qudSRXEBAagyUEZDqasd,Nhức đầu,G44,Thần kinh,DCCK35
+400,LudSRXEBAagyUEZDqaoc,Nhức đầu,G44,Thần kinh,DCCK35
+620,CudSRXEBAagyUEZDqa0d,Nhức đầu và đau nửa đầu,R51,Thần kinh,DCCK35
+807,3udSRXEBAagyUEZDqaoc,Nhức mỏi mắt,H57.1,Hô hấp,DCCK61
+707,rOdSRXEBAagyUEZDqasd,Nhũn não,G05.8,Thần kinh,DCCK35
+199,nudSRXEBAagyUEZDqasd,Nhược cơ,G70.0,Thần kinh,DCCK35
+440,hedSRXEBAagyUEZDqasd,Nói lắp,F98.5,Tâm thần,DCCK32
+518,MudSRXEBAagyUEZDqaoc,Nói lắp,F98.5,Tâm thần,DCCK32
+497,COdSRXEBAagyUEZDqa0d,Nôn,R11,Tiêu hóa,DCCK20
+94,FedSRXEBAagyUEZDqawd,Nứt kẽ hậu môn,K60.0,Ngoại tiêu hóa,DCCK20
+854,DudSRXEBAagyUEZDqawd,Ợ chua,K21,Tiêu hóa,DCCK20
+411,budSRXEBAagyUEZDqaoc,Paget xương,M88,Cơ xương khớp,DCCK10
+790,fudSRXEBAagyUEZDqaoc,Paget xương,M88,Cơ xương khớp,DCCK10
+633,-edSRXEBAagyUEZDqakc,Paget xương,M88,Cơ xương khớp,DCCK10
+706,pudSRXEBAagyUEZDqasd,Parkinson thứ phát,G21,Thần kinh,DCCK35
+829,YedSRXEBAagyUEZDqasd,Phì đại tuyến tiền liệt,N40,Nam học,DCCK08
+519,OudSRXEBAagyUEZDqaoc,Phình Bóc Tách ĐM Chủ,I71,Tim mạch,DCCK11
+592,KudSRXEBAagyUEZDqawd,Phình Bóc Tách Động Mạch Chủ,I71,Tim mạch,DCCK11
+213,FudSRXEBAagyUEZDqawd,"Phình đại tràng bẩm sinh
+",K59.3,Tiêu hóa,DCCK20
+351,PudSRXEBAagyUEZDqawd,Phình động mạch não,I67.1,Tim mạch,DCCK11
+643,L-dSRXEBAagyUEZDqaoc,Phình động mạch não,I67.1,Tim mạch,DCCK11
+802,uedSRXEBAagyUEZDqaoc,Phổi Tắc Nghẽn Mãn Tính,J44,Hô hấp,DCCK62
+353,ROdSRXEBAagyUEZDqawd,Phù bạch huyết,I89.0,Tim mạch,DCCK11
+578,4OdSRXEBAagyUEZDqasd,POLYP Dạ Dày,K31.7,Tiêu hóa,DCCK20
+26,M-dSRXEBAagyUEZDqaoc,Polyp mũi,J34.1,Tai mũi họng,DCCK18
+698,fedSRXEBAagyUEZDqasd,Polyp mũi,J34.1,Tai mũi họng,DCCK18
+712,4edSRXEBAagyUEZDqasd,POLYP Trực Tràng,K62.1,Tiêu hóa,DCCK20
+847,4udSRXEBAagyUEZDqasd,POLYP Túi Mật,D37.6,Tiêu hóa,DCCK20
+268,KudSRXEBAagyUEZDqaoc,Quai bị,B26,Truyền nhiễm,DCCK37
+728,hOdSRXEBAagyUEZDqawd,Quai bị,B26,Truyền nhiễm,DCCK37
+180,3edSRXEBAagyUEZDqaoc,Quáng Gà,H53.6,Mắt,DCCK23
+41,redSRXEBAagyUEZDqaoc,Rám má,L81.1,Da liễu,DCCK16
+309,L-dSRXEBAagyUEZDqasd,Răng thừa,K00.1,Răng hàm mặt,DCCK13
+617,4udSRXEBAagyUEZDqawd,Răng thừa,K00.1,Răng hàm mặt,DCCK13
+193,Y-dSRXEBAagyUEZDqasd,Rò Luân Nhỉ,H83.1,Tai mũi họng,DCCK18
+85,4-dSRXEBAagyUEZDqasd,Rối Loạn Ăn Uống,F50,Tâm thần,DCCK32
+833,hudSRXEBAagyUEZDqasd,Rối loạn cảm xúc lưỡng cực,F31,Tâm thần,DCCK32
+555,R-dSRXEBAagyUEZDqasd,Rối Loạn Chức Năng Tình Dục,F52,Tâm thần,DCCK32
+626,wudSRXEBAagyUEZDqakc,Rối loạn cương dương,F52.3,Nam học,DCCK08
+687,SOdSRXEBAagyUEZDqasd,Rối Loạn Cương Dương ,F52.3,Nam học,DCCK08
+836,ludSRXEBAagyUEZDqasd,Rối Loạn Giấc Ngũ,G47,Tâm thần,DCCK32
+429,J-dSRXEBAagyUEZDqasd,Rối loạn khớp thái dương hàm,K07.6,Răng hàm mặt,DCCK13
+496,BudSRXEBAagyUEZDqa0d,Rối loạn kinh nguyệt,N92.5,Sản phụ khoa,DCCK44
+55,EOdSRXEBAagyUEZDqasc,Rối Loạn Mỡ Máu ,E78,Nội tiết,DCCK07
+439,hOdSRXEBAagyUEZDqasd,Rối loạn nhân cách,F60,Tâm thần,DCCK32
+856,K-dSRXEBAagyUEZDqawd,Rối Loạn Nhịp Tim,R00,Tim mạch,DCCK11
+198,l-dSRXEBAagyUEZDqasd,Rối Loạn Tiền Đình,H81,Tai mũi họng,DCCK18
+778,IOdSRXEBAagyUEZDqaoc,Rối loạn tiền đình,H81,Tâm thần,DCCK32
+579,5OdSRXEBAagyUEZDqasd,Rối Loạn Tiêu Hoá,K93,Tiêu hóa,DCCK20
+386,yedSRXEBAagyUEZDqakc,Rối Loạn Tiêu Hóa,K93,Tiêu hóa,DCCK20
+266,JOdSRXEBAagyUEZDqaoc,Rối loạn trí nhớ,F00,Tâm thần,DCCK32
+443,mOdSRXEBAagyUEZDqasd,Rối Loạn Trí Nhớ,F00,Tâm thần,DCCK32
+248,FedSRXEBAagyUEZDqa0d,Rối loạn trí nhớ,F00,Tâm thần,DCCK32
+117,yedSRXEBAagyUEZDqawd,Rối Loạn Trí Nhớ,F00,Thần kinh,DCCK35
+347,LOdSRXEBAagyUEZDqawd,Rối Loạn Tuần Hoàn Não,I98,Tim mạch,DCCK11
+638,HedSRXEBAagyUEZDqaoc,Rối loạn tuần hoàn não,I99,Tim mạch,DCCK11
+245,BOdSRXEBAagyUEZDqa0d,Rong kinh,N92,Sản phụ khoa,DCCK45
+34,Z-dSRXEBAagyUEZDqaoc,Run vô căn,G25.0,Thần kinh,DCCK35
+165,nedSRXEBAagyUEZDqaoc,Rụng Tóc,L65.8,Da liễu,DCCK16
+379,9-dSRXEBAagyUEZDqawd,Rượu Bia và Sức Khoẻ,Z72.1,Tiêu hóa,DCCK20
+8,zOdSRXEBAagyUEZDqakc,Sa Dạ Dày,,Tiêu Hóa,DCCK20
+453,5edSRXEBAagyUEZDqasd,Sa Dạ Dày,,Tiêu hóa,DCCK20
+826,SedSRXEBAagyUEZDqasd,Sa Sinh Dục,N81,Sản phụ khoa,DCCK46
+73,medSRXEBAagyUEZDqasd,Sa Sút Trí Tuệ Do Mạch Máu Não,F01,Tâm thần,DCCK32
+639,H-dSRXEBAagyUEZDqaoc,Sa sút trí tuệ do mạch máu não,F01,Tim mạch,DCCK11
+250,rOdSRXEBAagyUEZDqakc,Sa Tử Cung,N81,Sản phụ khoa,DCCK47
+692,X-dSRXEBAagyUEZDqasd,Sa tử cung,N81,Sản phụ khoa,DCCK48
+220,OudSRXEBAagyUEZDqawd,Sa van hai lá,I34.1,Tim mạch,DCCK11
+123,5-dSRXEBAagyUEZDqawd,Sai khớp,T03.9,Cơ xương khớp,DCCK10
+157,e-dSRXEBAagyUEZDqaoc,Sai Khớp,T03,Cơ xương khớp,DCCK10
+524,VOdSRXEBAagyUEZDqaoc,Sai Khớp,T03.9,Cơ xương khớp,DCCK10
+830,YudSRXEBAagyUEZDqasd,Sản giật,O15,Sản phụ khoa,DCCK49
+306,I-dSRXEBAagyUEZDqasd,Sâu Răng ,K02,Răng hàm mặt,DCCK13
+619,CedSRXEBAagyUEZDqa0d,"Say nắng, say nóng",T67.0,Thần kinh,DCCK35
+688,SudSRXEBAagyUEZDqasd,Sảy Thai,O03,Sản phụ khoa,DCCK50
+310,MedSRXEBAagyUEZDqasd,Sơ Cứu Bỏng,T29,Ngoại khoa,DCCK26
+189,MudSRXEBAagyUEZDqasd,Sơ Cứu Điện Giật,,,
+58,NudSRXEBAagyUEZDqasd,Sơ Cứu Rắn Cắn,T63.0,Hồi sức - chống độc,DCCK26
+685,N-dSRXEBAagyUEZDqasd,Sơ Cứu Sét Đánh,,,
+430,OOdSRXEBAagyUEZDqasd,Sơ Cứu Thắt Cổ,,,
+823,OedSRXEBAagyUEZDqasd,Sơ Cứu Thương Tích và Cầm Máu,,,
+663,tOdSRXEBAagyUEZDqaoc,Sốc Phản Vệ,T78.2,Dị ứng miễn dịch,DCCK21
+247,D-dSRXEBAagyUEZDqa0d,Sởi,B05,Truyền nhiễm,DCCK37
+600,X-dSRXEBAagyUEZDqawd,Sởi,B05,Truyền nhiễm,DCCK37
+78,sOdSRXEBAagyUEZDqasd,Sỏi Bàng Quang,N21.0,Thận tiết niệu,DCCK31
+207,wedSRXEBAagyUEZDqasd,Sỏi đường tiết niệu,N20.2,Thận tiết niệu,DCCK31
+713,5udSRXEBAagyUEZDqasd,Sỏi Mật,K80,Tiêu hóa,DCCK20
+710,uudSRXEBAagyUEZDqasd,Sỏi niệu quản,N20.1,Thận tiết niệu,DCCK31
+95,F-dSRXEBAagyUEZDqawd,Sỏi ống mật chủ,K80.3,Ngoại tiêu hóa,DCCK20
+842,sedSRXEBAagyUEZDqasd,Sỏi Thận,N20.0,Thận tiết niệu,DCCK31
+225,bOdSRXEBAagyUEZDqawd,Sốt hồi quy,A68,Truyền nhiễm,DCCK37
+119,3OdSRXEBAagyUEZDqawd,Sốt ở Trẻ,R50,Nhi khoa,DCCK06
+228,d-dSRXEBAagyUEZDqawd,Sốt rét,B50,Truyền nhiễm,DCCK37
+719,P-dSRXEBAagyUEZDqawd,Sốt thấp khớp,M05,Cơ xương khớp,DCCK10
+729,hedSRXEBAagyUEZDqawd,Sốt vàng,A95,Truyền nhiễm,DCCK37
+471,YOdSRXEBAagyUEZDqawd,Sốt xuất huyết do vi rút Hantan,A98.5,Truyền nhiễm,DCCK37
+444,mudSRXEBAagyUEZDqasd,STRESS,F43.0,Tâm thần,DCCK32
+108,bedSRXEBAagyUEZDqawd,Sùi mào gà,A63.0,Truyền nhiễm,DCCK37
+501,rudSRXEBAagyUEZDqakc,Sùi Mào Gà,A63.0,Truyền nhiễm,DCCK37
+125,9edSRXEBAagyUEZDqawd,Sưng Ngực,N61,Sản phụ khoa,DCCK51
+299,7edSRXEBAagyUEZDqaoc,Sụp mi,H02.4,Mắt,DCCK23
+191,S-dSRXEBAagyUEZDqasd,Suy Buồng Trứng Sớm,E28.3,Sản phụ khoa,DCCK52
+391,8OdSRXEBAagyUEZDqakc,Suy cận giáp,E20,Nội tiết,DCCK07
+816,G-dSRXEBAagyUEZDqasc,Suy cận giáp,E20,Nội tiết,DCCK07
+428,HedSRXEBAagyUEZDqasc,Suy dinh dưỡng,E46,Dinh dưỡng,DCCK07
+140,9edSRXEBAagyUEZDqakc,Suy giáp,E02,Nội tiết,DCCK07
+427,GedSRXEBAagyUEZDqasc,Suy giáp,E03,Nội tiết,DCCK07
+43,uudSRXEBAagyUEZDqaoc,Suy Hô Hấp,J96.0,Hô hấp,DCCK63
+539,z-dSRXEBAagyUEZDqaoc,Suy hô hấp mạn,J96.1,Hô hấp,DCCK64
+777,GedSRXEBAagyUEZDqaoc,Suy nhược thần kinh,F48.0,Tâm thần,DCCK32
+837,m-dSRXEBAagyUEZDqasd,Suy Nhược Thần Kinh,F48.0,Tâm thần,DCCK32
+202,sudSRXEBAagyUEZDqasd,Suy Thận Cấp,N17,Thận tiết niệu,DCCK31
+567,s-dSRXEBAagyUEZDqasd,Suy Thận Mạn,N18,Thận tiết niệu,DCCK31
+593,LedSRXEBAagyUEZDqawd,Suy Tim,I50,Tim mạch,DCCK11
+681,HOdSRXEBAagyUEZDqasc,Suy tuyến yên,E23.0,Nội tiết,DCCK07
+475,hudSRXEBAagyUEZDqawd,Tả do Vibrio cholerae,A00.0,Truyền nhiễm,DCCK37
+416,1edSRXEBAagyUEZDqaoc,Tắc động mạch phổi,I26,Da liễu,DCCK16
+273,OedSRXEBAagyUEZDqaoc,Tắc Động Mạch Phổi,I26,Tim mạch,DCCK11
+422,-udSRXEBAagyUEZDqaoc,Tắc động mạch võng mạch trung tâm,H34.1,Mắt,DCCK23
+192,TOdSRXEBAagyUEZDqasd,Tắc Mạch Ối,O88.1,Sản phụ khoa,DCCK53
+384,s-dSRXEBAagyUEZDqakc,Tắc Mạch Ối,O88.1,Sản phụ khoa,DCCK54
+455,--dSRXEBAagyUEZDqasd,Tắc mật,K82.0,Tiêu hóa,DCCK20
+850,AedSRXEBAagyUEZDqawd,Tắc ruột,K56.6,Tiêu hóa,DCCK20
+341,BudSRXEBAagyUEZDqawd,Tắc ruột sơ sinh,P76,Nhi khoa,DCCK06
+465,LudSRXEBAagyUEZDqawd,Tai Biến Mạch Máu Não,I64,Tim mạch,DCCK11
+516,J-dSRXEBAagyUEZDqaoc,Tai biến mạch máu não,I64,Tim mạch,DCCK11
+320,gOdSRXEBAagyUEZDqasd,Tâm Thần Phân Liệt,F20,Tâm thần,DCCK32
+423,_-dSRXEBAagyUEZDqaoc,Tăng Bạch Cầu Đơn,B27,Truyền nhiễm,DCCK37
+848,5-dSRXEBAagyUEZDqasd,Táo Bón,K59.0,Tiêu hóa,DCCK20
+377,8udSRXEBAagyUEZDqawd,Testosterone,E29.1,Nam học,DCCK08
+60,TedSRXEBAagyUEZDqasd,Thai Chết Lưu,P95,Sản phụ khoa,DCCK55
+131,tOdSRXEBAagyUEZDqakc,Thai Chết Lưu,P95,Sản phụ khoa,DCCK56
+314,TudSRXEBAagyUEZDqasd,Thai Ngoài Tử Cung,O00,Sản phụ khoa,DCCK57
+203,u-dSRXEBAagyUEZDqasd,Thận đa nang,Q61.3,Thận tiết niệu,DCCK31
+206,vudSRXEBAagyUEZDqasd,Thận ứ mủ,N13.6,Thận tiết niệu,DCCK31
+844,wudSRXEBAagyUEZDqasd,Thận ứ nước,N13.3,Thận tiết niệu,DCCK31
+155,b-dSRXEBAagyUEZDqaoc,Thấp khớp,M79.0,Cơ xương khớp,DCCK10
+652,eudSRXEBAagyUEZDqaoc,Thấp Khớp ,M79.0,Cơ xương khớp,DCCK10
+348,L-dSRXEBAagyUEZDqawd,Thấp Tim,I01,Tim mạch,DCCK11
+61,T-dSRXEBAagyUEZDqasd,Thắt Ống Dẫn Tinh,,Nam học,DCCK08
+120,3edSRXEBAagyUEZDqawd,Thay Đổi Tâm Tính ở Trẻ,E30.9,Nhi khoa,DCCK06
+671,5edSRXEBAagyUEZDqaoc,Thiên đầu thống,H40,Mắt,DCCK23
+303,HudSRXEBAagyUEZDqasc,Thiếu canxi,E83.5,Nội tiết,DCCK07
+812,AOdSRXEBAagyUEZDqasc,Thiếu Máu,D53,Huyết học,DCCK02
+813,BOdSRXEBAagyUEZDqasc,Thiếu máu beta thalassaemia,D56.1,Huyết học,DCCK02
+349,MOdSRXEBAagyUEZDqawd,Thiếu Máu Cơ Tim,I25.5,Tim mạch,DCCK11
+714,6OdSRXEBAagyUEZDqasd,Thiếu Máu Cục Bộ Đường Ruột,K55,Tiêu hóa,DCCK20
+424,BudSRXEBAagyUEZDqasc,Thiếu máu do thiếu folate,D52.0,Huyêt học,DCCK02
+814,CedSRXEBAagyUEZDqasc,Thiếu máu do thiếu men G6PD,D55.0,Huyết học,DCCK02
+678,C-dSRXEBAagyUEZDqasc,Thiếu máu do thiếu vitamin B12,D51.0,Huyết học,DCCK02
+51,AedSRXEBAagyUEZDqasc,Thiếu Máu Thiếu Sắt,D50,Huyết học,DCCK02
+52,AudSRXEBAagyUEZDqasc,Thiếu Máu Thiếu Vitamin,D51,Huyết học,DCCK02
+418,6udSRXEBAagyUEZDqaoc,"Thoái hóa điểm vàng, võng mạc",H35.3,Mắt,DCCK23
+14,6OdSRXEBAagyUEZDqakc,Thoái hoá đốt sống cổ,M47,Bệnh cột sống,DCCK10
+793,i-dSRXEBAagyUEZDqaoc,Thoái hóa đốt sống cổ,M47,Cơ xương khớp,DCCK10
+373,xedSRXEBAagyUEZDqawd,Thoái Hoá Khớp,M19,Cơ xương khớp,DCCK10
+36,kedSRXEBAagyUEZDqaoc,Thoái hóa khớp,M19,Cơ xương khớp,DCCK10
+786,aOdSRXEBAagyUEZDqaoc,Thoái hóa khớp gối,M17,Cơ xương khớp,DCCK10
+798,kudSRXEBAagyUEZDqaoc,Thoái hóa khớp gối,M17,Cơ xương khớp,DCCK10
+158,f-dSRXEBAagyUEZDqaoc,Thoái hóa khớp háng,M16,Cơ xương khớp,DCCK10
+651,cOdSRXEBAagyUEZDqaoc,Thoái hóa khớp háng,M16,Cơ xương khớp,DCCK10
+90,B-dSRXEBAagyUEZDqawd,Thoát vị bẹn,K40,Ngoại tiêu hóa,DCCK20
+135,5udSRXEBAagyUEZDqakc,Thoát Vị Đĩa Đệm,M51.2,Cơ xương khớp,DCCK10
+655,g-dSRXEBAagyUEZDqaoc,Thoát vị đĩa đệm,M51.2,Cơ xương khớp,DCCK10
+159,h-dSRXEBAagyUEZDqaoc,Thoát vị đùi,K41,Tiêu hóa,DCCK20
+343,D-dSRXEBAagyUEZDqawd,"Thoát vị hoành
+",K44,Tiêu hóa,DCCK20
+855,GOdSRXEBAagyUEZDqawd,Thoát vị rốn,K42,Tiêu hóa,DCCK20
+456,COdSRXEBAagyUEZDqawd,Thoát vị thành bụng,K43,Tiêu hóa,DCCK20
+98,MedSRXEBAagyUEZDqawd,Thông Liên Nhĩ,Q21.1,Tim mạch,DCCK11
+216,MudSRXEBAagyUEZDqawd,Thông Liên Thất,Q21.0,Tim mạch,DCCK11
+401,POdSRXEBAagyUEZDqaoc,Thông Liên Thất,Q21.0,Tim mạch,DCCK11
+243,9udSRXEBAagyUEZDqawd,Thủ Dâm,,,
+457,EOdSRXEBAagyUEZDqawd,Thủng dạ dày,K25.1,Tiêu hóa,DCCK20
+66,aOdSRXEBAagyUEZDqasd,Thũng Màng Nhĩ,H72,Tai mũi họng,DCCK18
+736,ledSRXEBAagyUEZDqawd,Thương hàn,A01.0,Truyền nhiễm,DCCK37
+359,budSRXEBAagyUEZDqawd,Thủy đậu,B01,Truyền nhiễm,DCCK37
+757,AudSRXEBAagyUEZDqa0d,Tiền kinh nguyệt,N94.8,Sản phụ khoa,DCCK58
+63,W-dSRXEBAagyUEZDqasd,Tiền sản giật,O14,Sản phụ khoa,DCCK59
+716,_OdSRXEBAagyUEZDqasd,Tiêu chảy do kháng sinh,K59.1,Tiêu hóa,DCCK20
+726,eedSRXEBAagyUEZDqawd,Tiêu chảy do vi rút Rota,K90.1,Truyền nhiễm,DCCK37
+762,GedSRXEBAagyUEZDqa0d,Tiêu chảy do vi rút Rota,A08.0,Truyền nhiễm,DCCK37
+708,t-dSRXEBAagyUEZDqasd,Tiểu Đêm,,Thận tiết niệu,DCCK31
+56,EedSRXEBAagyUEZDqasc,Tiểu Đường ,E10,Nội tiết,DCCK07
+217,M-dSRXEBAagyUEZDqawd,Tim Bẫm Sinh,Q20,Tim mạch,DCCK11
+827,UOdSRXEBAagyUEZDqasd,Tinh Trùng Loãng,,Nam học,DCCK08
+413,nudSRXEBAagyUEZDqaoc,Tổ Đĩa,L30.1,Da liễu,DCCK16
+394,BOdSRXEBAagyUEZDqaoc,Tổ Đỉa,L30.1,Da liễu,DCCK16
+197,gedSRXEBAagyUEZDqasd,Trầm Cảm,F32,Tâm thần,DCCK32
+29,QOdSRXEBAagyUEZDqaoc,Tràn Dịch Màng Phổi,J90,Hô hấp,DCCK65
+290,u-dSRXEBAagyUEZDqaoc,Tràn Dịch Màng Phổi,J90,Hô hấp,DCCK66
+538,yudSRXEBAagyUEZDqaoc,Tràn khí màng phổi,J93,Hô hấp,DCCK67
+9,z-dSRXEBAagyUEZDqakc,Trào Ngược Dạ Dày,K21,Tiêu Hóa,DCCK20
+209,6edSRXEBAagyUEZDqasd,Trào Ngược Dạ Dày,K21,Tiêu hóa,DCCK20
+781,TedSRXEBAagyUEZDqaoc,Trào ngược dạ dày lên thực quản,K21,Tiêu hóa,DCCK20
+794,jOdSRXEBAagyUEZDqaoc,Trật khớp vai,S43.0,Cơ xương khớp,DCCK10
+766,w-dSRXEBAagyUEZDqakc,Trùng roi sinh dục nữ,Z22.4,Sản phụ khoa,DCCK60
+868,h-dSRXEBAagyUEZDqawd,Trùng roi sinh dục nữ,A59.0,Sản phụ khoa,DCCK61
+689,UedSRXEBAagyUEZDqasd,Tử Cung Nhi Hoá,Q51,Sản phụ khoa,DCCK62
+321,gudSRXEBAagyUEZDqasd,Tự Kỷ,F84.0,Tâm thần,DCCK32
+818,K-dSRXEBAagyUEZDqasd,Tưa miệng,B37.0,Răng hàm mặt,DCCK13
+549,JOdSRXEBAagyUEZDqasd,Tưa Răng,B37.0,Truyền nhiễm,DCCK37
+269,K-dSRXEBAagyUEZDqaoc,Tụt lợi,K06.0,Răng hàm mặt,DCCK13
+819,LedSRXEBAagyUEZDqasd,Tụt lợi,K06.0,Răng hàm mặt,DCCK13
+230,medSRXEBAagyUEZDqawd,U Đại Tràng,D12,Ung thư,DCCK14
+367,mudSRXEBAagyUEZDqawd,U Lạc Nội Mạc Tử Cung,N80,Sản phụ khoa,DCCK63
+742,vedSRXEBAagyUEZDqawd,U lymphô,C81,Ung thư,DCCK14
+231,m-dSRXEBAagyUEZDqawd,U Máu,D18,Ung thư,DCCK14
+38,n-dSRXEBAagyUEZDqaoc,U Mền Lây,B08.1,Truyền nhiễm,DCCK37
+2,sedSRXEBAagyUEZDqakc,U Nang Buồng Trứng,N83.0,Sản phụ khoa,DCCK64
+737,nOdSRXEBAagyUEZDqawd,U Nang Buồng Trứng,N83.0,Sản phụ khoa,DCCK65
+871,nedSRXEBAagyUEZDqawd,U Nang Thận,Q61,Thận tiết niệu,DCCK31
+236,uedSRXEBAagyUEZDqawd,"U nang tuyến tụy
+",K86.2,Ung thư,DCCK14
+270,MOdSRXEBAagyUEZDqaoc,U não,C71.0,Ung thư,DCCK14
+738,nudSRXEBAagyUEZDqawd,U Não,D33,Ung thư,DCCK14
+613,wedSRXEBAagyUEZDqawd,U sở Tiền Tiết Liệu,D29.1,Nam học,DCCK08
+872,n-dSRXEBAagyUEZDqawd,U Sợi Thần Kinh,D36.1,Thần kinh,DCCK35
+695,aedSRXEBAagyUEZDqasd,Ù Tai,H93.1,Tai mũi họng,DCCK18
+743,wOdSRXEBAagyUEZDqawd,Ù Tai,H93.1,Tai mũi họng,DCCK18
+355,SudSRXEBAagyUEZDqawd,U trong tim,D15.1,Tim mạch,DCCK11
+645,PudSRXEBAagyUEZDqaoc,U Trong Tim,D15.1,Tim mạch,DCCK11
+479,oOdSRXEBAagyUEZDqawd,U Trong Tim,D15.1,Ung thư,DCCK14
+859,O-dSRXEBAagyUEZDqawd,U trung thất,D15.2,Tim mạch,DCCK11
+271,NOdSRXEBAagyUEZDqaoc,U tuyến nước bọt,D11,Răng hàm mặt,DCCK13
+111,oedSRXEBAagyUEZDqawd,U Xơ Tử Cung,N85,Sản phụ khoa,DCCK66
+251,sudSRXEBAagyUEZDqakc,U Xơ Tử Cung,N85,Sản phụ khoa,DCCK67
+368,oudSRXEBAagyUEZDqawd,U Xơ Tuyến Tiền Liệt,D29.1,Nam  học,DCCK08
+502,uOdSRXEBAagyUEZDqakc,U xơ tuyến tiền liệt,D29.1,Truyền nhiễm,DCCK37
+3,vudSRXEBAagyUEZDqakc,Ung thư âm hộ,C51,Sản phụ khoa,DCCK68
+484,tudSRXEBAagyUEZDqawd,Ung thư amidan,C09,Ung thư,DCCK14
+632,8edSRXEBAagyUEZDqakc,Ung thư amidan,C09,Ung thư,DCCK14
+747,1OdSRXEBAagyUEZDqawd,"Ung thư amidan
+",C09,Ung thư,DCCK14
+611,uudSRXEBAagyUEZDqawd,Ung thư amidan khẩu cái,C09,Ung thư,DCCK14
+739,o-dSRXEBAagyUEZDqawd,Ung Thư Bàng Quang,C67,Ung thư,DCCK14
+480,pOdSRXEBAagyUEZDqawd,Ung Thư Buồng Trứng,C56,Ung thư,DCCK14
+232,pedSRXEBAagyUEZDqawd,Ung Thư Cổ Tử Cung,D06,Ung thư,DCCK14
+254,xOdSRXEBAagyUEZDqakc,Ung thư cổ tử cung,D06,Ung thư,DCCK14
+369,pudSRXEBAagyUEZDqawd,Ung Thư Da,D04,Ung thư,DCCK14
+873,p-dSRXEBAagyUEZDqawd,Ung Thư Dạ Dày,C16,Ung thư,DCCK14
+233,qOdSRXEBAagyUEZDqawd,Ung Thư Dương Vật,D07.4,Ung thư,DCCK14
+112,qedSRXEBAagyUEZDqawd,Ung Thư Gan,C22,Ung thư,DCCK14
+237,vudSRXEBAagyUEZDqawd,"Ung thư hạ họng
+",C13,Ung thư,DCCK14
+372,u-dSRXEBAagyUEZDqawd,Ung thư khoang miệng,D00.0,Ung thư,DCCK14
+608,qudSRXEBAagyUEZDqawd,Ung Thư Máu,C96.7,Ung thư,DCCK14
+370,q-dSRXEBAagyUEZDqawd,Ung Thư Phổi,D02.2,Ung thư,DCCK14
+609,t-dSRXEBAagyUEZDqawd,Ung thư ruột già,D01.0,Ung thư,DCCK14
+481,rOdSRXEBAagyUEZDqawd,Ung Thư Tế Bào Hắc Tố,C43,Ung thư,DCCK14
+113,redSRXEBAagyUEZDqawd,Ung Thư Thận,C64,Ung thư,DCCK14
+387,zedSRXEBAagyUEZDqakc,Ung Thư Thận,C64,Ung thư,DCCK14
+141,9udSRXEBAagyUEZDqakc,Ung thư thanh quản,D02.0,Ung thư,DCCK14
+371,rudSRXEBAagyUEZDqawd,Ung Thư Thực Quản,D00.1,Ung thư,DCCK14
+625,uedSRXEBAagyUEZDqakc,Ung thư tinh hoàn,C62,Ung thư,DCCK14
+740,r-dSRXEBAagyUEZDqawd,Ung Thư Tinh Hoàn,C62,Ung thư,DCCK14
+610,uOdSRXEBAagyUEZDqawd,ung thư trực tràng,D01.2,Ung thư,DCCK14
+239,1edSRXEBAagyUEZDqawd,Ung thư tử cung,D07.0,Ung thư,DCCK14
+482,sOdSRXEBAagyUEZDqawd,Ung Thư Túi Mật,D01.5,Ung thư,DCCK14
+483,sedSRXEBAagyUEZDqawd,Ung Thư Tuyến Tiền Liệt,C61,Ung thư,DCCK14
+114,sudSRXEBAagyUEZDqawd,Ung Thư Tuyến Túi Mật,C23,Ung thư,DCCK14
+741,vOdSRXEBAagyUEZDqawd,Ung thư tuyến tụy,C25,Ung thư,DCCK14
+234,s-dSRXEBAagyUEZDqawd,Ung Thư Vòm Họng,C46.2,Ung thư,DCCK14
+115,tOdSRXEBAagyUEZDqawd,Ung Thư Vú,D05,Ung thư,DCCK14
+235,tedSRXEBAagyUEZDqawd,Ung Thư Xương,C79.5,Ung thư,DCCK14
+477,ludSRXEBAagyUEZDqawd,Uốn ván,A35,Truyền nhiễm,DCCK37
+809,7udSRXEBAagyUEZDqaoc,Vẩn đục dịch kính,H43.3,Mắt,DCCK23
+166,oOdSRXEBAagyUEZDqaoc,Vảy Nến,L40,Da liễu,DCCK16
+832,eudSRXEBAagyUEZDqasd,Vẹo vách ngăn mũi,J34.2,Tai mũi họng,DCCK18
+1,q-dSRXEBAagyUEZDqakc,Viêm Âm Đạo,N76.0,Sản phụ khoa,DCCK69
+315,UudSRXEBAagyUEZDqasd,Viêm Âm Đạo,N76.0,Sản phụ khoa,DCCK70
+511,6udSRXEBAagyUEZDqakc,Viêm Amidan,B00.2,Hô hấp,DCCK68
+558,audSRXEBAagyUEZDqasd,Viêm Amidan,B00.2,Tai mũi họng,DCCK18
+129,qudSRXEBAagyUEZDqakc,Viêm Bàng Quang,N30,Thận tiết niệu,DCCK31
+709,uOdSRXEBAagyUEZDqasd,Viêm Bàng Quang,N30,Thận tiết niệu,DCCK31
+153,Y-dSRXEBAagyUEZDqaoc,Viêm bao hoạt dịch,M65,Cơ xương khớp,DCCK10
+161,k-dSRXEBAagyUEZDqaoc,Viêm bao hoạt dịch,M65,Cơ xương khớp,DCCK10
+183,9edSRXEBAagyUEZDqaoc,Viêm bờ mi,H01.0,Mắt,DCCK23
+316,U-dSRXEBAagyUEZDqasd,Viêm Buồng Trứng,N70,Sản phụ khoa,DCCK71
+568,tOdSRXEBAagyUEZDqasd,Viêm Cầu Thận Cấp,N00,Thận tiết niệu,DCCK31
+447,v-dSRXEBAagyUEZDqasd,Viêm cầu thận mạn,N18,Thận tiết niệu,DCCK31
+594,NOdSRXEBAagyUEZDqawd,Viêm Cơ Tim,I40,Tim mạch,DCCK11
+646,P-dSRXEBAagyUEZDqaoc,Viêm Cơ Tim,I40,Tim mạch,DCCK11
+691,WedSRXEBAagyUEZDqasd,Viêm cổ tử cung,N72,Sản phụ khoa,DCCK72
+409,aedSRXEBAagyUEZDqaoc,Viêm cột sống dính khớp,M45,Cơ xương khớp,DCCK10
+791,gOdSRXEBAagyUEZDqaoc,Viêm cột sống dính khớp,M45,Cơ xương khớp,DCCK10
+283,hOdSRXEBAagyUEZDqaoc,Viêm đa cơ,M33.2,Cơ xương khớp,DCCK10
+745,yOdSRXEBAagyUEZDqawd,Viêm Đa Cơ,M33.2,Cơ xương khớp,DCCK10
+40,qudSRXEBAagyUEZDqaoc,Viêm da cơ địa,L20,Da liễu,DCCK16
+801,rudSRXEBAagyUEZDqaoc,Viêm da dầu,L21,Da liễu,DCCK16
+6,yudSRXEBAagyUEZDqakc,Viêm Dạ Dày,K29,Tiêu Hóa,DCCK20
+334,6udSRXEBAagyUEZDqasd,Viêm Dạ Dày,K29,Tiêu hóa,DCCK20
+588,GedSRXEBAagyUEZDqawd,Viêm dạ dày - ruột cấp tính,A09.9,Tiêu hóa,DCCK20
+87,_edSRXEBAagyUEZDqasd,Viêm dạ dày ruột do vi-rút,A09,Truyền nhiễm,DCCK37
+535,sedSRXEBAagyUEZDqaoc,Viêm da do ánh nắng,L56.2,Da liễu,DCCK16
+607,iOdSRXEBAagyUEZDqawd,Viêm da mụn mủ truyền nhiễm,L13.1,Truyền nhiễm,DCCK37
+288,pOdSRXEBAagyUEZDqaoc,Viêm da tiếp xúc,L23,Da liễu,DCCK16
+843,tedSRXEBAagyUEZDqasd,Viêm Đài Bể Thận,N13.6,Thận tiết niệu,DCCK31
+580,6-dSRXEBAagyUEZDqasd,Viêm Đại Tràng Co Thắt,K58,Tiêu hóa,DCCK20
+585,CedSRXEBAagyUEZDqawd,Viêm đại tràng màng giả,A04.7,Truyền nhiễm,DCCK37
+543,--dSRXEBAagyUEZDqaoc,Viêm dây thần kinh thị giác,H47,Mắt,DCCK23
+116,x-dSRXEBAagyUEZDqawd,Viêm Động Mạch Thái Dương,M31.6,Tim mạch,DCCK11
+136,5-dSRXEBAagyUEZDqakc,Viêm đường hô hấp trên,J06.9,Hô hấp,DCCK69
+536,vOdSRXEBAagyUEZDqaoc,Viêm Đường Hô Hấp Trên ,J06.9,Hô hấp,DCCK70
+529,eOdSRXEBAagyUEZDqaoc,Viêm Gân,M77,Cơ xương khớp,DCCK10
+335,7OdSRXEBAagyUEZDqasd,VIÊM GAN A,B15,Tiêu hóa,DCCK20
+86,7edSRXEBAagyUEZDqasd,VIÊM GAN B,B16,Truyền nhiễm,DCCK37
+767,xudSRXEBAagyUEZDqakc,Viêm Gan B,B16,Truyền nhiễm,DCCK37
+849,7udSRXEBAagyUEZDqasd,VIÊM GAN C,K75,Tiêu hóa,DCCK20
+768,zudSRXEBAagyUEZDqakc,Viêm Gan C,K75,Truyền nhiễm,DCCK37
+454,7-dSRXEBAagyUEZDqasd,Viêm Gan Cấp,B16.9,Tiêu hóa,DCCK20
+336,8OdSRXEBAagyUEZDqasd,Viêm Gan Mạn,K73.9,Tiêu hóa,DCCK20
+181,3-dSRXEBAagyUEZDqaoc,Viêm Giác Mạc,H16,Mắt,DCCK23
+258,6-dSRXEBAagyUEZDqakc,Viêm Họng,J02,Tai mũi họng,DCCK18
+559,a-dSRXEBAagyUEZDqasd,Viêm Họng,J02,Tai mũi họng,DCCK18
+196,dOdSRXEBAagyUEZDqasd,Viêm họng cấp tính,J02,Tai mũi họng,DCCK18
+634,-udSRXEBAagyUEZDqakc,Viêm họng cấp tính,J02,Tai mũi họng,DCCK18
+69,eedSRXEBAagyUEZDqasd,Viêm họng do liên cầu,J02.0,Hô hấp,DCCK71
+15,8udSRXEBAagyUEZDqakc,Viêm họng do liên cầu,J02.0,Tai mũi họng,DCCK18
+17,9-dSRXEBAagyUEZDqakc,Viêm họng mạn tính,J31.2,Hô hấp,DCCK72
+437,e-dSRXEBAagyUEZDqasd,Viêm họng mạn tính,J31.2,Tai mũi họng,DCCK18
+259,--dSRXEBAagyUEZDqakc,"Viêm họng, viêm miệng, viêm tim do virus Coxsackie",J20.3,Tai mũi họng,DCCK18
+478,l-dSRXEBAagyUEZDqawd,"Viêm họng, viêm miệng, viêm tim do virus Coxsackie",J20.3,Truyền nhiễm,DCCK37
+204,vOdSRXEBAagyUEZDqasd,Viêm kẽ thận,N12,Thận tiết niệu,DCCK31
+47,4OdSRXEBAagyUEZDqaoc,Viêm Kết Mạc,H10,Mắt,DCCK23
+151,U-dSRXEBAagyUEZDqaoc,Viêm Khớp,M00,Cơ xương khớp,DCCK10
+795,jedSRXEBAagyUEZDqaoc,Viêm khớp,M00,Cơ xương khớp,DCCK10
+32,VudSRXEBAagyUEZDqaoc,Viêm Khớp Dạng Thấp,M05,Cơ xương khớp,DCCK10
+412,eedSRXEBAagyUEZDqaoc,Viêm Khớp Dạng Thấp ,M05,Cơ xương khớp,DCCK10
+531,iOdSRXEBAagyUEZDqaoc,Viêm khớp phản ứng,M02,Cơ xương khớp,DCCK10
+796,judSRXEBAagyUEZDqaoc,"Viêm khớp thiếu niên
+",M09,Cơ xương khớp,DCCK10
+337,8edSRXEBAagyUEZDqasd,Viêm Loét Đại Tràng,K51,Tiêu hóa,DCCK20
+342,CudSRXEBAagyUEZDqawd,Viêm loét đại trực tràng chảy máu,K51,Tiêu hóa,DCCK20
+817,JedSRXEBAagyUEZDqasd,Viêm Loét Miệng ,K12.3,Răng hàm mặt,DCCK13
+188,LOdSRXEBAagyUEZDqasd,Viêm loét niêm mạc miệng lưỡi,K12.3,Răng hàm mặt,DCCK13
+466,RedSRXEBAagyUEZDqawd,Viêm mạch,L95,Tim mạch,DCCK11
+74,nOdSRXEBAagyUEZDqasd,Viêm Màng Não,A87,Truyền nhiễm,DCCK37
+145,GOdSRXEBAagyUEZDqaoc,Viêm màng não,A87,Truyền nhiễm,DCCK37
+864,YedSRXEBAagyUEZDqawd,Viêm màng não do Haemophilus,G00.0,Truyền nhiễm,DCCK37
+362,eudSRXEBAagyUEZDqawd,Viêm màng não do mô cầu,A39.0,Truyền nhiễm,DCCK37
+730,iedSRXEBAagyUEZDqawd,Viêm màng não do phế cầu,G00.1,Truyền nhiễm,DCCK37
+224,YudSRXEBAagyUEZDqawd,"Viêm màng não do vi rút
+",A87,Truyền nhiễm,DCCK37
+272,NudSRXEBAagyUEZDqaoc,Viêm Màng Ngoài Tim,I30,Tim mạch,DCCK11
+857,NedSRXEBAagyUEZDqawd,Viêm Màng Ngoài Tim,I30,Tim mạch,DCCK11
+665,vedSRXEBAagyUEZDqaoc,Viêm Màng Phổi,R09.1,Hô hấp,DCCK73
+541,7-dSRXEBAagyUEZDqaoc,Viêm mống mắt thể mi,H20,Mắt,DCCK23
+50,9udSRXEBAagyUEZDqaoc,Viêm mủ nội nhãn,H44.0,Mắt,DCCK23
+194,bOdSRXEBAagyUEZDqasd,Viêm Mũi,J00,Tai mũi họng,DCCK18
+879,8OdSRXEBAagyUEZDqawd,Viêm Mũi Dị Ứng,J30.4,Dị ứng miễn dịch,DCCK21
+560,bedSRXEBAagyUEZDqasd,Viêm Mũi Dị Ứng,J30.3,Tai mũi họng,DCCK18
+24,HOdSRXEBAagyUEZDqaoc,Viêm não,G04,Thần kinh,DCCK35
+565,nedSRXEBAagyUEZDqasd,Viêm Não,G04,Thần kinh,DCCK35
+23,GudSRXEBAagyUEZDqaoc,Viêm não Nhật bản,A83.0,Truyền nhiễm,DCCK37
+500,HOdSRXEBAagyUEZDqa0d,Viêm não Nhật Bản,A83.0,Truyền nhiễm,DCCK37
+93,EedSRXEBAagyUEZDqawd,Viêm niêm mạc trực tràng,K51.2,Tiêu hóa,DCCK20
+581,8udSRXEBAagyUEZDqasd,Viêm Niêm Mạc Trực Tràng,K51.2,Tiêu hóa,DCCK20
+570,xedSRXEBAagyUEZDqasd,Viêm niệu đạo,N34,Thận tiết niệu,DCCK31
+99,NudSRXEBAagyUEZDqawd,Viêm Nội Tâm Mạc Nhiễm Khuẩn Bán Cấp,I33.0,Tim mạch,DCCK11
+177,1udSRXEBAagyUEZDqaoc,Viêm phế quản cấp,J20,Hô hấp,DCCK74
+780,OOdSRXEBAagyUEZDqaoc,Viêm Phế Quản Mãn Tính,J41,Hô hấp,DCCK75
+175,0OdSRXEBAagyUEZDqaoc,Viêm phế quản mạn tính,J42,Hô hấp,DCCK76
+44,vudSRXEBAagyUEZDqaoc,Viêm Phổi,J68.0,Hô hấp,DCCK77
+644,PedSRXEBAagyUEZDqaoc,Viêm Phổi,J12,Hô hấp,DCCK78
+666,v-dSRXEBAagyUEZDqaoc,Viêm Phổi Do MP,J18,Hô hấp,DCCK79
+537,xudSRXEBAagyUEZDqaoc,Viêm phổi do nấm,J17.2,Hô hấp,DCCK80
+803,wOdSRXEBAagyUEZDqaoc,Viêm Phổi Do Virut,J12,Hô hấp,DCCK81
+338,8-dSRXEBAagyUEZDqasd,Viêm Phúc Mạc,K65,Tiêu hóa,DCCK20
+605,e-dSRXEBAagyUEZDqawd,Viêm ruột do Giardia,A07.1,Truyền nhiễm,DCCK37
+582,9OdSRXEBAagyUEZDqasd,Viêm Ruột Thừa,K35,Tiêu hóa,DCCK20
+851,AudSRXEBAagyUEZDqawd,Viêm ruột thừa cấp,K35,Tiêu hóa,DCCK20
+583,9edSRXEBAagyUEZDqasd,Viêm Tá Tràng,K29.8,Tiêu hóa,DCCK20
+122,5udSRXEBAagyUEZDqawd,Viêm tắc tuyến lệ,H04.0,Mắt,DCCK23
+675,_OdSRXEBAagyUEZDqaoc,Viêm tắc tuyến lệ,H04.0,Mắt,DCCK23
+195,budSRXEBAagyUEZDqasd,Viêm Tai Giữa,H66.0,Tai mũi họng,DCCK18
+696,b-dSRXEBAagyUEZDqasd,Viêm Tai Ngoài,H60,Tai mũi họng,DCCK18
+68,dedSRXEBAagyUEZDqasd,Viêm tai ngoài ác tính,H60.2,Tai mũi họng,DCCK18
+674,9-dSRXEBAagyUEZDqaoc,Viêm thần kinh thị giác,H46,Mắt,DCCK23
+448,xudSRXEBAagyUEZDqasd,"Viêm thận, bể thận",N13,Thận tiết niệu,DCCK31
+436,cOdSRXEBAagyUEZDqasd,Viêm Thanh Quản,J04.0,Tai mũi họng,DCCK18
+715,9udSRXEBAagyUEZDqasd,Viêm Thực Quản,K20,Tiêu hóa,DCCK20
+627,x-dSRXEBAagyUEZDqakc,Viêm Thục Quản,K20,Tiêu hóa,DCCK20
+291,wedSRXEBAagyUEZDqaoc,Viêm Tiểu Phế Quản,J21,Hô hấp,DCCK82
+5,xedSRXEBAagyUEZDqakc,Viêm tinh hoàn,N45,Nam học,DCCK08
+556,VOdSRXEBAagyUEZDqasd,Viêm Tinh Hoàn,N45,Nam học,DCCK08
+210,9-dSRXEBAagyUEZDqasd,Viêm Túi Mật,K81,Tiêu hóa,DCCK20
+211,-OdSRXEBAagyUEZDqasd,Viêm Tuỵ,K85,Tiêu hóa,DCCK20
+340,A-dSRXEBAagyUEZDqawd,Viêm tụy cấp,K85,Tiêu hóa,DCCK20
+586,C-dSRXEBAagyUEZDqawd,Viêm tụy mạn,K86.1,Tiêu hóa,DCCK20
+487,yudSRXEBAagyUEZDqawd,Viêm tụy mạn,K86.1,Tiêu hóa,DCCK20
+684,MOdSRXEBAagyUEZDqasd,Viêm tủy răng,K04,Răng hàm mặt,DCCK13
+327,tudSRXEBAagyUEZDqasd,Viêm Tuyến Tiền Liệt,N41,Nam học,DCCK08
+438,fOdSRXEBAagyUEZDqasd,Viêm VA,J02,Tai mũi họng,DCCK18
+339,-edSRXEBAagyUEZDqasd,Viêm Xơ Đường Mật,K83.0,Tiêu hóa,DCCK20
+697,cedSRXEBAagyUEZDqasd,Viêm Xoang,J01,Tai mũi họng,DCCK18
+874,zOdSRXEBAagyUEZDqawd,VIêm xoang,J01,Tai mũi họng,DCCK18
+307,JudSRXEBAagyUEZDqasd,Viêm Xoang Hàm,J01.0,Răng hàm mặt,DCCK13
+318,dudSRXEBAagyUEZDqasd,Viêm xoang mạn tính,J32,Tai mũi họng,DCCK18
+589,G-dSRXEBAagyUEZDqawd,Viêm xung huyết hang vị dạ dày,K29.0,Tiêu hóa,DCCK20
+532,lOdSRXEBAagyUEZDqaoc,Viêm xương,M42,Cơ xương khớp,DCCK10
+749,2OdSRXEBAagyUEZDqawd,Viên Đường Hô Hấp Trên,J06.9,Hô hấp,DCCK83
+670,4edSRXEBAagyUEZDqaoc,Viễn Thị,H52.0,Mắt,DCCK23
+628,0OdSRXEBAagyUEZDqakc,Viên Tụy,K85,Tiêu hóa,DCCK20
+557,VedSRXEBAagyUEZDqasd,Vô Sinh,N46,Nam học,DCCK08
+62,VudSRXEBAagyUEZDqasd,Vỡ Tử Cung,O71.0,Sản phụ khoa,DCCK73
+792,iedSRXEBAagyUEZDqaoc,"Vôi hóa sụn khớp
+",M11.2,Cơ xương khớp,DCCK10
+808,4udSRXEBAagyUEZDqaoc,Võng mạc ở trẻ sinh non,H35.1,Mắt,DCCK23
+45,wudSRXEBAagyUEZDqaoc,Xẹp Phổi,J98.1,Hô hấp,DCCK84
+704,n-dSRXEBAagyUEZDqasd,Xơ cứng rải rác,G35,Thần kinh,DCCK35
+884,GOdSRXEBAagyUEZDqa0d,Xơ cứng rải rác,G35,Thần kinh,DCCK35
+584,-udSRXEBAagyUEZDqasd,Xơ Gan,K74,Tiêu hóa,DCCK20
+815,FedSRXEBAagyUEZDqasc,Xơ nang,E84,Nội tiết,DCCK07
+804,x-dSRXEBAagyUEZDqaoc,Xơ phổi,J84.1,Hô hấp,DCCK85
+858,N-dSRXEBAagyUEZDqawd,Xơ Vữa Động Mạch,I70,Tim mạch,DCCK11
+731,iudSRXEBAagyUEZDqawd,Xoắn khuẩn vàng da,A69.8,Truyền nhiễm,DCCK37
+252,tedSRXEBAagyUEZDqakc,Xoắn Tinh Hoàn,N44,Nam học,DCCK08
+690,V-dSRXEBAagyUEZDqasd,Xoắn Tinh Hoàn,N44,Nam học,DCCK08
+676,_edSRXEBAagyUEZDqaoc,Xuất huyết dưới kết mạc,H11.3,Mắt,DCCK23
+54,B-dSRXEBAagyUEZDqasc,Xuất huyết giẩm tiểu cầu,D69.3,Huyết học,DCCK02
+755,_udSRXEBAagyUEZDqawd,Xuất Tinh Muộn,F52.3,Nam học,DCCK08
+882,_-dSRXEBAagyUEZDqawd,Xuất Tinh Sớm,F52.4,Nam học,DCCK08
+797,j-dSRXEBAagyUEZDqaoc,Xương thủy tinh,Q78.0,Cơ xương khớp,DCCK10
+376,7udSRXEBAagyUEZDqawd,Yếu Sinh Lý,F52.0,Nam học,DCCK08
+756,AOdSRXEBAagyUEZDqa0d,Yếu Sinh Lý,F52.0,Nam học,DCCK08
+,,Nhiễm khuẩn Salmonella,A02.0,Truyền nhiễm,DCCK37
+,,Áp xe não,A06.6†,Truyền nhiễm,DCCK37
+,,Bệnh lao,A18,Truyền nhiễm,DCCK37
+,,Bệnh tinh hồng nhiệt,A38,Truyền nhiễm,DCCK37
+,,Bệnh bò điên,A81.0,Truyền nhiễm,DCCK37
+,,Viêm não,A85,Truyền nhiễm,DCCK37
+,,Bênh đỏ truyền nhiễm,B08.3,Truyền nhiễm,DCCK37
+,,Viêm gan,B17.9,Truyền nhiễm,DCCK37
+,,Viêm gan B,B18.1,Truyền nhiễm,DCCK37
+,,Viêm gan C,B18.2,Truyền nhiễm,DCCK37
+,,Viêm hô hấp do virus Covid_19,B34.2,Truyền nhiễm,DCCK37
+,,Nấm nông bàn chân,B36,Truyền nhiễm,DCCK37
+,,Bệnh ghẻ,B86,Truyền nhiễm,DCCK37
+,,Ung thư miệng,C04,Ung bướu,DCCK14
+,,Ung thư vòm họng,C05,Ung bướu,DCCK14
+,,Ung thư mũi xoang,C11,Ung bướu,DCCK14
+,,Ung thư thực quản,C15,Ung bướu,DCCK14
+,,Ung thư ruột non,C17,Ung bướu,DCCK14
+,,Ung thư đại tràng,C18,Ung bướu,DCCK14
+,,Ung thư trực tràng,C20,Ung bướu,DCCK14
+,,Ung thư hậu môn,C21,Ung bướu,DCCK14
+,,Ung thư biểu mô tế bào gan,C22.0,Ung bướu,DCCK14
+,,Ung thư ống mật; Ung thư đường mật,C24,Ung bướu,DCCK14
+,,Ung thư thanh quản,C32,Ung bướu,DCCK14
+,,Ung thư phổi,C34,Ung bướu,DCCK14
+,,Ung thư phổi,C34,Ung bướu,DCCK14
+,,U sợi thần kinh,C47,Ung bướu,DCCK14
+,,Ung thư vú,C50,Ung bướu,DCCK14
+,,Ung thư vú nam giới,C50.9,Ung bướu,DCCK14
+,,Ung thư âm đạo,C52,Ung bướu,DCCK14
+,,Ung thư cổ tử cung,C53,Ung bướu,DCCK14
+,,Ung thư tử cung,C54,Ung bướu,DCCK14
+,,Ung thư tử cung,C54,Ung bướu,DCCK14
+,,Ung thư dương vật,C60,Ung bướu,DCCK14
+,,Ung thư mắt,C69,Ung bướu,DCCK14
+,,U não ác tính; Ung thư não,C71,Ung bướu,DCCK14
+,,U dây thần kinh thính giác,C72.4,Ung bướu,DCCK14
+,,Ung thư tuyến giáp,C73,Ung bướu,DCCK14
+,,U tủy thượng thận,C74.1,Ung bướu,DCCK14
+,,U lympho không Hodgkin,C83.0,Ung bướu,DCCK14
+,,Đa u tủy xương,C90.0,Ung bướu,DCCK14
+,,Bệnh bạch cầu dạng lympho mãn tính; Bệnh bạch cầu lympho mãn tính; Ung thư máu; Chronic Lymphocytic Leukaemia,C91.1,Ung bướu,DCCK14
+,,Bệnh bạch cầu dạng tủy cấp tính; Bệnh bạch cầu cấp dòng tủy,C92.0,Ung bướu,DCCK14
+,,Bệnh bạch cầu cấp,C95.0,Ung bướu,DCCK14
+,,U vú lành tính,D24,Ung bướu,DCCK14
+,,U não lành tính; U não,D33,Ung bướu,DCCK14
+,,Thiếu máu do mất máu,D50.0,Huyết học,DCCK14
+,,Thiếu máu tan máu,D59,Huyết học,DCCK14
+,,Suy tủy xương,D61,Huyết học,DCCK14
+,,Viêm mao mạch dị ứng,D69,Huyết học,DCCK14
+,,Xuất huyết giảm tiểu cầu,D69.5,Huyết học,DCCK14
+,,Bướu giáp đơn thuần,E01.2,Nội tiết,DCCK07
+,,Viên tuyến giáp Hashimoto,E06,Nội tiết,DCCK07
+,,Đái tháo đường loại 2; Đái tháo đường typ 2,E11,Nội tiết,DCCK07
+,,Suy thượng thận,E27,Nội tiết,DCCK07
+,,Suy thượng thận tiên phát,E27.1,Nội tiết,DCCK07
+,,Suy thượng thận thứ phát,E27.4,Nội tiết,DCCK07
+,,Ngộ độc rượu,F10.0,Tâm thần,DCCK09
+,,Rối loạn tâm thần,F29,Tâm thần,DCCK09
+,,Trầm cảm sau sinh,F32.9,Tâm thần,DCCK09
+,,Chứng sợ khoảng rộng,F40.0,Tâm thần,DCCK09
+,,Rối loạn lo âu ở người lớn,F41,Tâm thần,DCCK09
+,,Rối loạn hoảng sợ,F41.0,Tâm thần,DCCK09
+,,Rối loạn stress sau sang chấn,F43.1,Tâm thần,DCCK09
+,,Chán ăn tâm thần,F50.0,Tâm thần,DCCK09
+,,Rối loạn giấc ngủ,F51,Tâm thần,DCCK09
+,,Hội chứng đau đầu chùm; Đau đàu khu trú; Đau đầu chuỗi,G44.0,Thần kinh,DCCK35
+,,Đau đầu do căng thẳng,G44.2,Thần kinh,DCCK35
+,,Đau dây thần khinh sau zona,G53.0*,Thần kinh,DCCK35
+,,Đau vùng thắt lưng do nguyên nhân cơ học; Đau thắt lưng do chấn thương,G55.1*,Thần kinh,DCCK35
+,,Hội chứng Guillain Barre,G61.0,Thần kinh,DCCK35
+,,Hội chứng mệt mỏi mãn tính,G93,Thần kinh,DCCK35
+,,Tăng áp nội sọ; Tăng áp lực nội sọ,G93,Thần kinh,DCCK35
+,,Hội chứng Reye; Bệnh Reye,G93.7,Thần kinh,DCCK35
+,,Đục thủy tinh thể bẩm sinh; Đục thủy tinh thể ở trẻ em,H26.0,Mắt,DCCK23
+,,"Cận thị, Tật cận thị",H52.1,Mắt,DCCK23
+,,Viêm tai keo; Viêm tai thanh dịch,H65.3,Tai mũi họng,DCCK18
+,,Viêm tai giữa,H66,Tai mũi họng,DCCK18
+,,Viêm xương chũm,H70,Tai mũi họng,DCCK18
+,,Bệnh xương xứng tai; Bệnh xốp xơ tai,H80,Tai mũi họng,DCCK18
+,,Bệnh rối loạn thính lực,H81.0,Tai mũi họng,DCCK18
+,,Viêm tai trong,H83.0,Tai mũi họng,DCCK18
+,,Bệnh van hai lá,I05.9,Tim mạch,DCCK11
+,,"Tăng huyết áp, Cao huyết áp; Huyết áp cao; Huyết áp tăng",I11,Tim mạch,DCCK11
+,,Tăng động mạch phổi,I27.0,Tim mạch,DCCK11
+,,Viêm nội tâm mạc; Viêm màng trong tim,I33,Tim mạch,DCCK11
+,,Bệnh cơ tim giãn,I42.0,Tim mạch,DCCK11
+,,Hội chứng nhịp tim nhanh tư thế,I47,Tim mạch,DCCK11
+,,Rung nhĩ,I48,Tim mạch,DCCK11
+,,Suy tim sung huyết,I50.0,Tim mạch,DCCK11
+,,Suy tim trái,I50.1,Tim mạch,DCCK11
+,,Xuất huyết dưới màng nhện,I60,Tim mạch,DCCK11
+,,Xuất huyết não,I61,Tim mạch,DCCK11
+,,Phình động mạch chủ bụng,I71.4,Tim mạch,DCCK11
+,,Bệnh động mạch ngoại biên,I73,Tim mạch,DCCK11
+,,Dãn tĩnh mạch chi dưới có loét,I83.0,Tim mạch,DCCK11
+,,Dãn tĩnh mạch chi dưới với vết chàm,I83.9,Tim mạch,DCCK11
+,,Viêm amidan,J03,Hô hấp,DCCK36
+,,Viêm thanh quản,J05.0,Hô hấp,DCCK36
+,,Viêm nắp thanh quản,J05.1,Hô hấp,DCCK36
+,,Cảm cúm,J09,Hô hấp,DCCK36
+,,Viêm phổi,J15,Hô hấp,DCCK36
+,,Viêm tiểu phế quản,J21,Hô hấp,DCCK36
+,,Viêm mũi dị ứng,J30,Hô hấp,DCCK36
+,,Viêm mũi dị ứng,J30,Hô hấp,DCCK36
+,,"Viêm mũi dị ứng theo mùa, Hen theo mùa",J30.1,Hô hấp,DCCK36
+,,Viêm mũi không do dị ứng,J31.0,Hô hấp,DCCK36
+,,Bệnh phổi tắc nghẽn mãn tính,J44,Hô hấp,DCCK36
+,,Hen suyễn; Hen phế quản,J45,Hô hấp,DCCK36
+,,Giãn phế quản,J47,Hô hấp,DCCK36
+,,Áp xe phổi có viêm phổi,J85.1,Hô hấp,DCCK36
+,,Bệnh sỏi tuyến nước bọt,K11.5,Tiêu hóa,DCCK20
+,,Polyp thực quản,K22,Tiêu hóa,DCCK20
+,,Xuất huyết tiêu hóa do loét dạ dày tá tràng,K27.0,Tiêu hóa,DCCK20
+,,Viêm túi thừa,K57,Tiêu hóa,DCCK20
+,,Rò hậu môn,K60.3,Tiêu hóa,DCCK20
+,,Xơ gan còn bù,K74.4,Tiêu hóa,DCCK20
+,,Xuất huyết tiêu hóa trên do tăng áp lực tĩnh mạch cửa,K76.6,Tiêu hóa,DCCK20
+,,Viêm túi mật cấp tính,K81.0,Tiêu hóa,DCCK20
+,,Bệnh Coeliac; Bệnh không dung nạp gluten,K90.0,Tiêu hóa,DCCK20
+,,Xuất huyết tiêu hóa trên,K92.2,Tiêu hóa,DCCK20
+,,Chốc; Bệnh chốc; Bệnh chốc lở,L01.0,Da liễu,DCCK16
+,,Viêm mô bào,L03,Da liễu,DCCK16
+,,Bệnh hồng ban,L53,Da liễu,DCCK16
+,,Viêm nang lông,L66.4,Da liễu,DCCK16
+,,Bệnh; mụn trứng cá đỏ; Mụn trứng cá đỏ,L71,Da liễu,DCCK16
+,,Rôm đỏ; Rôm sảy; Rôm sảy mùa hè,L74.0,Da liễu,DCCK16
+,,Loét tỳ đè,L89,Da liễu,DCCK16
+,,Bệnh viêm khớp vảy nến,M07*,Cơ xương khớp,DCCK10
+,,Thoái hóa khớp,M19.0,Cơ xương khớp,DCCK10
+,,Bệnh biến dạng ngón tay; Biến dạng cổ thiên nga,M20.0,Cơ xương khớp,DCCK10
+,,Bệnh sưng đau ngón chân cái; Bệnh biến dạng ngón chân cái,M20.3,Cơ xương khớp,DCCK10
+,,Bệnh Kawasaki,M30.3,Cơ xương khớp,DCCK10
+,,Bệnh u hạt Wegener,M31.3,Cơ xương khớp,DCCK10
+,,Bệnh Lupus ban đỏ hệ thống,M32,Cơ xương khớp,DCCK10
+,,Bệnh xơ cứng bì; Xơ cứng bì,M34,Cơ xương khớp,DCCK10
+,,Hội chứng Sjogren; Hội chứng viêm các tuyến,M35.0,Cơ xương khớp,DCCK10
+,,Bệnh đau cơ dạng thấp,M35.3,Cơ xương khớp,DCCK10
+,,Viêm đĩa đệm cột sống,M46,Cơ xương khớp,DCCK10
+,,Đau vùng thắt lưng triệu chứng,M51.1†,Cơ xương khớp,DCCK10
+,,Đau vùng thắt lưng,M54.5,Cơ xương khớp,DCCK10
+,,Bệnh nang màng hoạt dịch vùng khoeo; U nang baker,M71.2,Cơ xương khớp,DCCK10
+,,Bệnh xơ cân gan tay,M72.0,Cơ xương khớp,DCCK10
+,,"Bệnh vai co cứng, Bệnh cứng vai",M75,Cơ xương khớp,DCCK10
+,,Đau cơ xơ hóa,M79.7,Cơ xương khớp,DCCK10
+,,Viêm khớp ức sườn; Viêm khớp sụn sườn,M94.0,Cơ xương khớp,DCCK10
+,,Viêm cầu thận,N10,Thận tiết niệu,DCCK31
+,,"Sỏi thận, Sỏi niệu quản",N20,Thận tiết niệu,DCCK31
+,,Viêm niệu quản,N37.0 *,Thận tiết niệu,DCCK31
+,,Viêm bao qui đầu,N48.1,Nam học,DCCK08
+,,Bệnh teo tinh hoàn,N50.0,Nam học,DCCK08
+,,Đau vú theo chu kì kinh,N64.4,Sản phụ khoa,DCCK24
+,,Viêm vùng chậu nữ,N73,Sản phụ khoa,DCCK24
+,,Bệnh co thắt âm đạo,N94.2,Sản phụ khoa,DCCK24
+,,Hội chứng căng thẳng trước kỳ kinh,N94.3,Sản phụ khoa,DCCK24
+,,Vô sinh ở nữ,N97,Sản phụ khoa,DCCK24
+,,Áp xe vú,O91.1,Sản phụ khoa,DCCK24
+,,Nhiễm khuẩn đường tiết niệu ở trẻ,P39.3,Nhi khoa,DCCK06
+,,Bệnh phì đại tàng bẩm sinh,Q43.1,Nhi khoa,DCCK06
+,,Co giật do sốt,R56.0,Nhi khoa,DCCK06
+,,Sốc phản vệ,R57.8,Dị ứng miễn dịch,DCCK21
+,,Chấn thương đầu nhẹ; Chấn động não,S06.0,Ngoại khoa,DCCK28
+,,Xuất huyết dưới màng cứng; Tụ máu dưới màng cứng,S06.5,Ngoại khoa,DCCK28
+,,Gãy xương chi trên; Gãy xương ở tay,S42,Ngoại khoa,DCCK28
+,,Ngộ độc khí CO,T58,Gây mê hồi sức - Cấp cứu,DCCK26
+,,Bệnh cước,T69.1,Cơ xương khớp,DCCK10
+,,Sốc độ cao nặng,T70.2,Gây mê hồi sức - Cấp cứu,DCCK26
+,,Vi chấn thương,X50,Ngoại khoa,DCCK28

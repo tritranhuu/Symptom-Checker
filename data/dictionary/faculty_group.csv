@@ -1,0 +1,45 @@
+STT,ID,Faculty_name,Group,a,Faculty_code,group_onto
+1,S-1gNvO1nO189VWN7Fl1pqccagQMrJU1BNz0H0poqoS2m,Nha khoa,Răng hàm mặt,"1, 15",DCCK01,Bệnh hệ tiêu hóa
+2,S-1r7L3uJ3zGtDUAFWHQVurdeMnAH945J884djkpK33gI,Sinh học huyết học,,,DCCK02,
+3,S-2emcSI11i7dncGuD4CvLP4vB7SY2XdhICa2KEwhEKan,Gan - Mật - Tụy,,,DCCK03,Bệnh hệ tiêu hóa
+4,S-2QH7iYFAL23eppU2jr31T3qE70s1L7Cq3epyhN7tfe1,Hỗ trợ sinh sản,,,DCCK04,
+5,S-34MV8oY03M4CgUCvZzVXHhe0hiJYJht99H0jM5xgmp5,Chẩn đoán hình ảnh,,,DCCK05,
+6,S-45PgKQh2R7pW7skr4YO0biGkBLfz82gekFUfJnIGSX7,Nhi khoa,,,DCCK06,
+7,S-4vl3V2oBWCzoxS668ckKDiVknZwf86fwi68psq0scff,Nội Tiết / Tiểu Đường,,,DCCK07,"Bệnh nội tiết, dinh dưỡng và chuyển hóa"
+8,S-5HiskPoLnFqMNvHTxKeJqY4lhrCDfGkV9ebFPagT4Kd,Nam học,,,DCCK08,Bệnh_hệ_sinh_dục
+9,S-6JXEIroGTSTmZ11d8OJCZpsJ1a4psu5bXYlRXlqU8ez,Rối loạn giấc ngủ,Tâm thần,"9,52",DCCK09,"Bệnh_rối_loạn_sức_khỏe_tâm_thần,Bệnh_tâm_thần"
+10,S-6XpSXseonc6sw87uXCM7m2kGAqkAHb82SB4iFcGND4j,Cơ xương khớp / Cột sống,,,DCCK10,"Bệnh hệ cơ, xương khớp và mô liên kết"
+11,S-8oZk5E9aLZ1dY9Ph7Js52CraIx8ds5VDEh12XpwEzNy,Tim mạch,,,DCCK11,"Bệnh hệ tuần hoàn,Bệnh hệ tim mạch"
+12,S-8YzQdt7LVrALoQhfYlVnINdhHqp2rluqIPYiSm3sm2W,"Y tá, điều dưỡng đa khoa",,,DCCK12,
+13,S-amhUnyHGeF7E9OFgG740qcxWJn7iBL9D204hj4BNLyc,Thẩm mỹ hàm mặt,,,DCCK13,
+14,S-apbEuR2hWPzENIG40xh0bLV0aTx6mD4lcTSWwd2jMJN,Ung bướu,,,DCCK14,"U,Ung_thư"
+15,S-B8ayW2srnXVLi66DgoIiU5xlGrVSnhQiYHC4IbdtaSQ,Phục hồi chức năng,,,DCCK15,
+16,S-B9B5ZLfn9G1aEq4KtBUI05icNEFRSPdl48b42jtBl4R,Da liễu,,,DCCK16,Nhiễm trùng da và tổ chức dưới da
+17,S-bjNE8orOX7Nsst7KB2S4Fqzqr8yqXYBXEogf57E21Bi,Xét nghiệm hóa sinh,,,DCCK17,
+18,S-CriA77f7gRKv01V3XI0MFlTTB3eq6pJdQwjvJi5zHdg,Tai Mũi Họng,,,DCCK18,Bệnh_lí_tai_mũi_họng
+19,S-DDH2WwY4qI41L34MxeS7MSl3UIEo1Y3meT5Vv3Q5x35,Vật lý trị liệu,,,DCCK19,
+20,S-F5g5hBZCc5ctpkBkar5KAlw9FDJWCQP58z8XSdk5Ajl,Tiêu hóa,,,DCCK20,Bệnh hệ tiêu hóa
+21,S-jqPh3U45D32Pc5eE4CRFKqwSnhg255Lwt52pX433nWA,Dị ứng miễn dịch,,,DCCK21,"Bệnh hệ cơ, xương khớp và mô liên kết"
+22,S-lDo3Y3Hg4L0yDj8kaFS32Sayn3s443HxfdJo2uXLdm5,Chấn thương chỉnh hình & Cột sống,,,DCCK22,"Bệnh hệ cơ, xương khớp và mô liên kết"
+23,S-lzZrDv89dqzbCFGMMWaul4JQZxMQ98k87Zop1Yqiycb,Chuyên khoa mắt,,,DCCK23,Bệnh mắt và phần phụ
+24,S-mpiko4nv6X44I0g0t4e0RBLS4eGz8Zn0sQljBF0xLK5,Sản phụ khoa,,,DCCK24,"Thai nghén, sinh đẻ và hậu sản"
+25,S-pbX8TuMJ731hW2tw9f0unLQBm7CLwioo8odM0FMng7K,Hộ sinh,,,DCCK25,"Thai nghén, sinh đẻ và hậu sản"
+26,S-QuBcJnjXK0DCSY2zJau3iTTE45spRc8yT2XY0D3GUUk,Gây mê hồi sức - Cấp cứu,,,DCCK26,
+27,S-S6n4yGq3sTRlDbX16ZvoBZsXqY62y1K2YxJfeN9qt6x,Y học cổ truyền,,,DCCK27,
+28,S-SfpQi0pnWGA6fwa40kTdgpGS1IIc49O9y6X9R0ycA07,Ngoại khoa,,,DCCK28,
+29,S-SfpQi0pnWGkjvcnkTdgpvcxzIc4ds9y6X9R0ycB06,Lão Khoa,,,DCCK29,
+30,S-sj4IHpTGqmlc4dOpE0IENJTOtBhSPuOicwY5WvOBcck,Khám tổng quát,,,DCCK30,
+31,S-tmnaJ81SHYKZCWtqgN5NHQs2GLabfG2QIXTWRpPJO2c,Thận tiết niệu,,,DCCK31,Bệnh_hệ_tiết_niệu
+32,S-Vtqtpvj2Bxv23jmqtFGF33gZ8sSaWjvrAIvu1S2o2fB,Tâm lý / Rối loạn giấc ngủ,,,DCCK32,"Bệnh_rối_loạn_sức_khỏe_tâm_thần,Bệnh_tâm_thần"
+33,S-w0ZUrArWbgZKhuERnJBJ0L4KpyyMXkSc20Tpj0AdZDn,Dị ứng và miễn dịch,,,DCCK33,"Bệnh hệ cơ, xương khớp và mô liên kết"
+34,S-Xs3eOqmcoqeZQmJa18TwNByEksks4igYSC1U1SCa8r6,Nội khoa,,,DCCK34,
+35,S-ZzqlZW5XFIVNA3tNwuLz2A2rjOy1e1i2Ni4KgQx2KMH,Thần kinh,,,DCCK35,Bệnh hệ thần kinh
+36,,Hô hấp / Lồng ngực,,,DCCK36,Bệnh hệ hô hấp
+37,,Truyền nhiễm,,,DCCK37,Bệnh nhiễm trùng và ký sinh trùng
+38,,Chụp PET/CT,,,DCCK38,
+39,,Đa Khoa,,,DCCK39,
+,,,,,,
+,,,,,,
+,,,,,,
+Note:,Các chuyên khoa ở bản gốc  trùng nhau thì em xóa một cái giữ lại một cái như bên này,,,,,
+,Cái Răng hàm mặt và Tâm thần nó đầy đủ hơn 2 cái kia nên em gộp vào,,,,,

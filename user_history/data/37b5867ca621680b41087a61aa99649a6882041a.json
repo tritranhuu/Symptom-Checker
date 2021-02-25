@@ -1,0 +1,38 @@
+{
+    "name": "tht",
+    "age": "Trưởng_thành",
+    "gender": "Nam",
+    "symptom_checker": {
+        "symptom_init": "<http://deepcare.io/524db8b6_2b8d_4b99_8ed7_ebc15b39aee0>",
+        "question_answer": [
+            {
+                "question": "['Đau_họng', 'Khó_nuốt,Đau_khi_nuốt', 'Nói_khó', 'Ho']",
+                "answer": ""
+            }
+        ],
+        "pos_causes": [],
+        "neg_causes": [],
+        "pos_symptoms": [
+            "Ho_khan",
+            "Ho"
+        ],
+        "neg_symptoms": [
+            "Đau_họng",
+            "Khó_nuốt,Đau_khi_nuốt",
+            "Dính_thức_ăn_khi_nuốt",
+            "Nói_khó",
+            "Ho",
+            "Ho_dai_dẳng",
+            "Ho_ra_máu",
+            "Ho_có_đờm",
+            "Ho_khan",
+            "Ho_ăng_ẳng"
+        ],
+        "top_diseaes": [
+            [
+                "Bệnh_đau_họng",
+                0
+            ]
+        ]
+    }
+}

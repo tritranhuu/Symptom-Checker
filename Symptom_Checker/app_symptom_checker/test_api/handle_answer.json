@@ -1,0 +1,31 @@
+{
+	"token": "ab665735-6617-4b49-96f7-c4c7b4357ade",
+	"question": {		
+  		"answer": [
+    		"Khó_thở", 
+    		"Mệt_mỏi,Ốm_yếu", 
+    		"Thở_khò_khè", 
+    		"Thở_gấp"
+  			], 
+  		"items": {
+    		"iri": [
+      			"<http://deepcare.io/08fa1dda_0c79_4e2c_9c12_fe36ffb1afcd>", 
+      			"<http://deepcare.io/e3716b59_5a55_4247_9be6_4673ee3fb463>", 
+      			"<http://deepcare.io/1cc2ded4_f993_4cad_b866_ff7d3ab3f3cb>", 
+      			"<http://deepcare.io/9c6863ec_fdbe_40d9_833f_486526628926>"
+    			], 
+    	"label": [
+      		"Khó_thở", 
+      		"Mệt_mỏi,Ốm_yếu", 
+      		"Thở_khò_khè", 
+      		"Thở_gấp"
+    		]
+ 		}, 
+  		"question": "Bạn có bị các triệu chứng nào trong số sau đây không ?", 
+  		"type": "symptoms_list"
+	},
+	"user_answer": [
+		"<http://deepcare.io/08fa1dda_0c79_4e2c_9c12_fe36ffb1afcd>",
+		"<http://deepcare.io/e3716b59_5a55_4247_9be6_4673ee3fb463>"
+	]
+}

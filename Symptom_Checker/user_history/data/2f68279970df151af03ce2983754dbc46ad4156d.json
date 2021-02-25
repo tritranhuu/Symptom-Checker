@@ -1,0 +1,124 @@
+{
+    "name": "tht",
+    "age": "Trưởng_thành",
+    "gender": "Nam",
+    "symptom_checker": {
+        "symptom_init": "<http://deepcare.io/dd0113c8_ae5a_4ca6_b645_27e1091afa1d>",
+        "question_answer": [
+            {
+                "question": "['Khó_thở', 'Mệt_mỏi,Ốm_yếu', 'Thở_khò_khè', 'Ho_có_đờm']",
+                "answer": "2,3,4"
+            },
+            {
+                "question": "['Ho_ra_máu', 'Thở_gấp', 'Bối_rối_hoặc_nhầm_lẫn', 'Đau_ngực']",
+                "answer": "2,3"
+            },
+            {
+                "question": "Bạn có bị Sốt không ? (y/n/idk) : ",
+                "answer": "y"
+            },
+            {
+                "question": "Bạn có bị Đau_họng không ? (y/n/idk) : ",
+                "answer": "n"
+            },
+            {
+                "question": "Bạn có bị Ngạt_mũi không ? (y/n/idk) : ",
+                "answer": "n"
+            },
+            {
+                "question": "Bạn có bị Chảy_nước_mũi không ? (y/n/idk) : ",
+                "answer": "y"
+            },
+            {
+                "question": "Bạn có bị Hắt_hơi_nhiều không ? (y/n/idk) : ",
+                "answer": "n"
+            },
+            {
+                "question": "Bạn có bị Không_muốn_ăn không ? (y/n/idk) : ",
+                "answer": "n"
+            }
+        ],
+        "pos_causes": [],
+        "neg_causes": [],
+        "pos_symptoms": [
+            "Ho",
+            "Mệt_mỏi,Ốm_yếu",
+            "Thở_khò_khè",
+            "Ho_có_đờm",
+            "Thở_gấp",
+            "Bối_rối_hoặc_nhầm_lẫn",
+            "Sốt",
+            "Chảy_nước_mũi"
+        ],
+        "neg_symptoms": [
+            "Khó_thở",
+            "Khó_thở_đột_ngột",
+            "Khó_thở_khi_nằm",
+            "Ho_ra_máu",
+            "Đau_ngực",
+            "Đau_ngực_khi_gắng_sức",
+            "Đau_ngực_bất_chợt",
+            "Đau_ngực_khi_di_chuyển",
+            "Đau_ngực_khi_nghỉ_ngơi",
+            "Đau_ngực_khi_hít_vào",
+            "Đau_họng",
+            "Ngạt_mũi",
+            "Hắt_hơi_nhiều",
+            "Không_muốn_ăn"
+        ],
+        "top_diseaes": [
+            [
+                "Giãn_phế_quản",
+                0.13253184475118593
+            ],
+            [
+                "Xơ_nang",
+                0.07369142568346572
+            ],
+            [
+                "Hen_suyễn",
+                0.07128757079149682
+            ],
+            [
+                "Bệnh_u_hạt_Wegener",
+                0.04364343818363317
+            ],
+            [
+                "Viêm_phế_quản",
+                0.015164305638452063
+            ],
+            [
+                "Sốt_theo_mùa,Sốt_hoa_cỏ",
+                0.01390337128086675
+            ],
+            [
+                "Viêm_phổi",
+                0.00501683900854027
+            ],
+            [
+                "Viêm_mũi_họng,Cảm_thường",
+                0
+            ],
+            [
+                "Viêm_thanh_quản",
+                0
+            ],
+            [
+                "Bệnh_đau_họng",
+                0
+            ],
+            [
+                "Tắc_mạch_phổi",
+                0
+            ],
+            [
+                "Bệnh_phổi_tắc_nghẽn_mãn_tính",
+                0
+            ],
+            [
+                "Suy_tim_sung_huyết",
+                0
+            ]
+        ]
+    }
+}

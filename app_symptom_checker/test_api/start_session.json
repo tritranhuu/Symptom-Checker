@@ -1,0 +1,13 @@
+{
+    "symptom_init": "đau_đầu",
+    "symptoms": ["đau_đầu"],
+    "symptom_pos": ["đau_đầu"],
+    "user":{
+        "name":"tht",
+        "age":22,
+        "gender":"Nam",
+        "height": 173,
+        "weight": 66
+    },
+    "language" : "vi"
+}
